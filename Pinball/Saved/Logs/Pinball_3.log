@@ -1,0 +1,1421 @@
+﻿Log file open, 09/29/18 23:21:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.238774
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.570s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-17.51.21:995][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-17.51.21:995][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-17.51.22:055][  0]LogHAL: Display: Platform has ~ 8 GB [8508420096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.29-17.51.22:056][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.29-17.51.22:056][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.29-17.51.22:057][  0]LogInit: Computer: DESKTOP-71863RE
+[2018.09.29-17.51.22:057][  0]LogInit: User: gskhagta
+[2018.09.29-17.51.22:057][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.29-17.51.22:057][  0]LogInit: High frequency timer resolution =2.143480 MHz
+[2018.09.29-17.51.22:059][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.29-17.51.22:059][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-17.51.22:059][  0]LogMemory: Process Physical Memory: 99.88 MB used, 99.88 MB peak
+[2018.09.29-17.51.22:060][  0]LogMemory: Process Virtual Memory: 84.19 MB used, 84.19 MB peak
+[2018.09.29-17.51.22:060][  0]LogMemory: Physical Memory: 4063.93 MB used,  4050.34 MB free, 8114.26 MB total
+[2018.09.29-17.51.22:060][  0]LogMemory: Virtual Memory: 4621.12 MB used,  4050.34 MB free, 134217728.00 MB total
+[2018.09.29-17.51.22:115][  0]LogInit: Using OS detected language (en-US).
+[2018.09.29-17.51.22:115][  0]LogInit: Using OS detected locale (en-IN).
+[2018.09.29-17.51.22:119][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.29-17.51.23:098][  0]LogStreaming: Display: Took  0.982s to InitEngineTextLocalization.
+[2018.09.29-17.51.23:098][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.29-17.51.23:158][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.29-17.51.23:158][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.29-17.51.24:177][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-17.51.24:177][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-17.51.24:329][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.09.29-17.51.24:329][  0]LogD3D11RHI:       2020/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.29-17.51.24:343][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.09.29-17.51.24:343][  0]LogD3D11RHI:       128/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.29-17.51.24:350][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-17.51.24:350][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-17.51.24:350][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-17.51.24:414][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-17.51.24:414][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-17.51.24:414][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-17.51.24:415][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.09.29-17.51.24:416][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.09.29-17.51.24:417][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.09.29-17.51.24:417][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.29-17.51.24:417][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.09.29-17.51.24:418][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.29-17.51.24:418][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.29-17.51.24:418][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.09.29-17.51.24:528][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-17.51.24:549][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.29-17.51.24:553][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/Shaders/WorkingDirectory/15196/).
+[2018.09.29-17.51.24:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/g s khagta/AppData/Local/Temp/UnrealShaderWorkingDir/556ECEFB4EC92D6134DB15B4C06EDAFD/'.
+[2018.09.29-17.51.25:619][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-17.51.25:731][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-17.51.25:920][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-17.51.26:019][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-17.51.26:166][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-17.51.26:289][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-17.51.26:427][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-17.51.26:496][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-17.51.26:547][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:154][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-17.51.27:214][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-17.51.28:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-17.51.28:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-17.51.28:202][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-17.51.28:202][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-17.51.28:281][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-17.51.28:344][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-17.51.28:419][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-17.51.28:522][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-17.51.28:708][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.29-17.51.28:708][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-17.51.34:304][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.29-17.51.34:304][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.29-17.51.34:304][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-17.51.50:488][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-17.51.51:623][  0]LogDerivedDataCache: Loaded boot cache 1.12s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.29-17.51.51:627][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.29-17.51.51:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-17.51.51:627][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-17.51.51:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-17.51.51:627][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-17.51.51:758][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-17.51.51:840][  0]LogDerivedDataCache: Using Local data cache path C:/Users/g s khagta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-17.51.51:840][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.29-17.51.51:840][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.29-17.51.52:052][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-17.51.52:133][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.29-17.51.52:311][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-17.51.54:472][  0]LogAssetRegistry: FAssetRegistry took 0.0401 seconds to start up
+[2018.09.29-17.52.04:664][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-17.52.08:848][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/CachedAssetRegistry.bin
+[2018.09.29-17.52.08:848][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-17.52.09:116][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-17.52.09:116][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.29-17.52.09:129][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-17.52.09:129][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-17.52.09:802][  0]LogNetVersion: Pinball 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 450249559)
+[2018.09.29-17.52.13:735][  0]LogConfig: Warning: Failed to saved backup for config[GameplayTagsList]
+[2018.09.29-17.52.19:402][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.19:903][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.20:404][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.20:905][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.21:405][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.21:906][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.22:407][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.22:908][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.23:410][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.23:910][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin', retrying in .5s...
+[2018.09.29-17.52.24:411][  0]LogFileManager: Error: Error moving file '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/AssetRegistryCache/cff8f772.bin'.
+[2018.09.29-17.52.24:530][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 5.453185 seconds
+[2018.09.29-17.52.24:541][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.29-17.52.24:541][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.29-17.52.24:541][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-17.52.44:988][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-17.52.45:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-17.52.47:557][  0]LogConfig: Warning: Failed to saved backup for config[SourceControlSettings]
+[2018.09.29-17.52.47:573][  0]SourceControl: Source control is disabled
+[2018.09.29-17.52.47:581][  0]SourceControl: Source control is disabled
+[2018.09.29-17.52.47:818][  0]SourceControl: Source control is disabled
+[2018.09.29-17.52.47:884][  0]SourceControl: Source control is disabled
+[2018.09.29-17.52.48:157][  0]LogConfig: Warning: Failed to saved backup for config[Encryption]
+[2018.09.29-17.52.51:027][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-17.52.51:910][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-17.52.53:187][  0]LogEngine: Initializing Engine...
+[2018.09.29-17.52.53:232][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-17.52.53:292][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.003 s
+[2018.09.29-17.52.53:292][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-17.52.53:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.29-17.52.53:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-17.52.55:101][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.29-17.52.55:691][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-17.52.56:059][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-17.52.56:638][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-17.52.56:639][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.29-17.52.58:460][  0]LogDerivedDataCache: Saved boot cache 1.82s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.29-17.52.58:488][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-17.52.59:495][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-17.52.59:781][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-17.53.01:645][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-17.53.05:064][  0]LocalizationService: Localization service is disabled
+[2018.09.29-17.53.13:255][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/' took 0.13s
+[2018.09.29-17.53.13:255][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-17.53.13:271][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-17.53.13:288][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-17.53.13:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.29-17.53.13:313][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-17.53.13:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.09.29-17.53.13:314][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-17.53.21:893][  0]SourceControl: Source control is disabled
+[2018.09.29-17.53.21:954][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-17.53.22:010][  0]LightingResults: New page: Lighting Build
+[2018.09.29-17.53.22:203][  0]MapCheck: New page: Map Check
+[2018.09.29-17.53.22:203][  0]LightingResults: New page: Lighting Build
+[2018.09.29-17.53.25:954][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.29-17.53.26:668][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-17.53.26:823][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-17.53.27:074][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 251.126ms to complete.
+[2018.09.29-17.53.27:075][  0]LogFileHelpers: Loading map 'Template_Default' took 5.170
+[2018.09.29-17.53.29:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-17.53.29:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-17.53.29:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-17.53.29:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-17.53.29:648][  0]LogCollectionManager: Loaded 0 collections in 0.037517 seconds
+[2018.09.29-17.53.30:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Collections/' took 0.01s
+[2018.09.29-17.53.30:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Developers/gskhagta/Collections/' took 0.01s
+[2018.09.29-17.53.30:273][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Collections/' took 0.01s
+[2018.09.29-17.53.30:274][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.29-17.53.30:299][  0]LogContentBrowser: Native class hierarchy populated in 0.0239 seconds. Added 2572 classes and 603 folders.
+[2018.09.29-17.53.30:833][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.29-17.53.37:284][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2018.09.29-17.53.37:399][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2018.09.29-17.53.38:957][  0]LogSlate: Took 0.028896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-17.53.39:028][  0]LogSlate: Took 0.054128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-17.53.39:148][  0]LogSlate: Took 0.022369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-17.53.39:979][  0]LogRenderer: Reallocating scene render targets to support 760x376 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-17.53.42:040][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.09.29-17.53.42:040][  0]LogLoad: (Engine Initialization) Total time: 145.63 seconds
+[2018.09.29-17.53.42:040][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-17.53.42:105][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-17.53.42:303][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.29-17.53.44:121][  4]LogAssetRegistry: Asset discovery search completed in 109.6544 seconds
+[2018.09.29-17.53.44:125][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.29-17.53.44:125][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000570 seconds (updated 0 objects)
+[2018.09.29-17.53.46:796][136]LogSlate: Took 0.166939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-17.55.38:918][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-17.55.39:145][756]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-17.55.41:924][756]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-17.55.41:984][756]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/Pinball.Pinball
+[2018.09.29-17.55.42:099][756]Cmd: MAP LOAD FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-17.55.42:099][756]LightingResults: New page: Lighting Build
+[2018.09.29-17.55.42:100][756]LoadErrors: New page: Loading map: Pinball.umap
+[2018.09.29-17.55.42:101][756]MapCheck: New page: Map Check
+[2018.09.29-17.55.42:101][756]LightingResults: New page: Lighting Build
+[2018.09.29-17.55.42:318][756]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-17.55.42:421][756]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-17.55.42:613][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 191.51ms to complete.
+[2018.09.29-17.55.42:615][756]LogFileHelpers: Loading map 'Pinball' took 0.561
+[2018.09.29-18.00.49:413][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.01.03:872][866]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2018.09.29-18.01.06:131][866]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 116 classes and 0 folders.
+[2018.09.29-18.01.08:245][866]LogSlate: Took 0.029906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-18.01.08:854][867]LogSlate: Took 0.026179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-18.01.13:051][ 85]LogSlate: Window 'BP_Bumper' being destroyed
+[2018.09.29-18.01.14:137][146]LogRenderer: Reallocating scene render targets to support 808x464 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-18.01.22:729][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.05.39:541][815]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.059
+[2018.09.29-18.05.39:546][815]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Bumper] ([1] browsable assets)...
+[2018.09.29-18.05.39:602][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2018.09.29-18.05.39:602][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2018.09.29-18.05.39:798][815]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper_Auto11CA02EA54D2F6EDF75A356B7C93CA750.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto1.uasset'
+[2018.09.29-18.05.39:813][815]LogFileHelpers: Auto-saving content packages took 0.271
+[2018.09.29-18.06.56:700][134]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.06.58:097][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.06.58:171][183]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper5AA85A6A46445F92E8088FB4F308C92D.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.08.49:307][135]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.08.59:829][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.09.08:994][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.09.36:924][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.09.37:041][367]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\SM_PopBumperMechanism.FBX)
+[2018.09.29-18.09.37:223][367]LogFbx: Loading FBX Scene from C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\SM_PopBumperMechanism.FBX
+[2018.09.29-18.09.37:238][367]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.29-18.09.39:533][367]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.29-18.09.57:679][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\SM_PopBumperMechanism.FBX)
+[2018.09.29-18.09.57:702][102]LogFbx: Loading FBX Scene from C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\SM_PopBumperMechanism.FBX
+[2018.09.29-18.09.57:713][102]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.29-18.10.00:780][102]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.29-18.10.01:076][102]LogStaticMesh: Building static mesh SM_PopBumperMechanism...
+[2018.09.29-18.10.01:483][102]LogStaticMesh: Built static mesh [0.46s] /Game/Assets/SM_PopBumperMechanism.SM_PopBumperMechanism
+[2018.09.29-18.10.01:515][102]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.29-18.10.03:888][223]LogSlate: Window 'Message Log' being destroyed
+[2018.09.29-18.10.03:894][223]LogSlate: Window 'Message Log' being destroyed
+[2018.09.29-18.10.09:213][539]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_PopBumperMechanism.SM_PopBumperMechanism
+[2018.09.29-18.10.11:365][540]LogRenderer: Reallocating scene render targets to support 1016x612 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-18.10.13:678][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PopBumperMechanism" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/SM_PopBumperMechanism.uasset" SILENT=true
+[2018.09.29-18.10.13:711][669]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/SM_PopBumperMechanism5B57935B4EF2634D781CEF913B291841.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/SM_PopBumperMechanism.uasset'
+[2018.09.29-18.11.06:773][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.12.06:316][991]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.12.37:646][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.12.48:308][535]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.12.49:372][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.12.49:455][573]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_BumperF924E31B49980474F45A03845003FD27.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.15.05:306][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.15.10:068][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.15.19:054][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.15.44:939][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.15.48:645][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.16.08:067][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.16.40:172][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.057
+[2018.09.29-18.16.40:179][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Bumper] ([1] browsable assets)...
+[2018.09.29-18.16.40:218][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2018.09.29-18.16.40:219][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2018.09.29-18.16.40:331][427]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper_Auto2E35A3FBD4D885B84D7C571B1F6984CF2.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto2.uasset'
+[2018.09.29-18.16.40:336][427]LogFileHelpers: Auto-saving content packages took 0.161
+[2018.09.29-18.17.17:262][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.17.33:930][376]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.17.34:844][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.17.34:908][407]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper61738D3440DC60BB469D9CBD0AEAAFFA.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.19.41:777][157]LogEditorTransaction: Undo Move Node
+[2018.09.29-18.19.42:336][187]LogEditorTransaction: Undo Create Reroute Node
+[2018.09.29-18.19.42:960][221]LogEditorTransaction: Undo Create Pin Link
+[2018.09.29-18.20.47:062][400]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.20.48:239][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.20.48:344][448]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper1062502F4873892D8D004992E5EA167B.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.21.42:695][842]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_PopBumperBase.SM_PopBumperBase
+[2018.09.29-18.21.48:440][127]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.09.29-18.21.48:458][127]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.29-18.21.48:458][127]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2018.09.29-18.22.01:262][657]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.09.29-18.22.01:270][657]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2018.09.29-18.22.01:596][657]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-18.22.01:771][657]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-18.22.01:841][657]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-18.22.01:841][657]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-18.22.01:841][657]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-18.22.01:952][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.09.29-18.22.01:985][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.09.29-18.22.02:016][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.09.29-18.22.02:042][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.09.29-18.22.02:051][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.09.29-18.22.06:599][657]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-18.22.06:667][657]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-18.22.06:684][657]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-18.22.07:075][657]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-18.22.07:331][657]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-18.22.07:399][657]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-18.22.07:534][657]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-18.22.07:925][657]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-18.22.07:959][657]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-18.22.08:010][657]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-18.22.08:452][657]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.29-18.22.08:537][657]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.29-18.22.08:622][657]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.29-18.22.08:979][657]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.29-18.22.09:099][657]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.29-18.22.09:371][657]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.29-18.22.09:422][657]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.29-18.22.09:796][657]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.29-18.22.09:813][657]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-18.22.09:830][657]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-18.22.10:205][657]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-18.22.10:239][657]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-18.22.10:256][657]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-18.22.10:647][657]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-18.22.10:732][657]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-18.22.10:749][657]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-18.22.11:140][657]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-18.22.11:191][657]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-18.22.11:225][657]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-18.22.11:566][657]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-18.22.11:753][657]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-18.22.11:770][657]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-18.22.12:194][657]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-18.22.12:415][657]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-18.22.12:517][657]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-18.22.12:653][657]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-18.22.12:925][657]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-18.22.12:976][657]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-18.22.13:163][657]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-18.22.13:418][657]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-18.22.13:520][657]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-18.22.13:655][657]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-18.22.13:910][657]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-18.22.13:961][657]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-18.22.14:097][657]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-18.22.14:352][657]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-18.22.14:437][657]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-18.22.15:194][657]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-18.22.15:392][657]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-18.22.15:586][657]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-18.22.15:826][657]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.09.29-18.22.16:519][661]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-18.22.16:559][663]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-18.22.17:382][710]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-18.22.19:117][807]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-18.22.19:276][816]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-18.22.19:537][827]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-18.22.21:153][906]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-18.22.21:735][939]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-18.22.21:958][952]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-18.22.23:282][ 28]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-18.22.23:350][ 32]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-18.22.24:040][ 62]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-18.22.25:914][133]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-18.22.26:030][138]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-18.22.26:149][144]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-18.22.27:764][222]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-18.22.29:447][310]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-18.22.29:469][310]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.09.29-18.22.29:501][310]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-18.22.29:501][310]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.09.29-18.22.30:565][310]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-18.22.30:565][310]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-18.22.30:565][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-18.22.30:565][310]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-18.22.30:565][310]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-18.22.30:566][310]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. Is special engine material.
+[2018.09.29-18.22.30:680][310]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. Is special engine material.
+[2018.09.29-18.22.30:840][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.09.29-18.22.30:855][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.09.29-18.22.30:872][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.09.29-18.22.30:929][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.09.29-18.22.30:940][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.09.29-18.22.30:986][310]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.09.29-18.22.30:991][310]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.09.29-18.22.31:485][310]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.09.29-18.22.31:502][310]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.29-18.22.31:929][310]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.09.29-18.22.32:036][310]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.09.29-18.22.32:198][310]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.09.29-18.22.32:446][310]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.09.29-18.22.32:465][310]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.09.29-18.22.32:772][310]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.09.29-18.22.32:898][310]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.29-18.22.33:009][310]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.29-18.22.33:232][310]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.29-18.22.33:388][310]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.29-18.22.33:480][310]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.29-18.22.33:861][310]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.29-18.22.33:934][310]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.29-18.22.34:130][310]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.29-18.22.34:272][310]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.29-18.22.34:494][310]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-18.22.34:528][310]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-18.22.34:630][310]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.09.29-18.22.34:766][310]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-18.22.35:156][311]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-18.22.35:311][314]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-18.22.35:607][325]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-18.22.36:252][354]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-18.22.36:798][386]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-18.22.36:836][388]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-18.22.37:314][408]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-18.22.37:725][420]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-18.22.37:931][432]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-18.22.39:125][501]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-18.22.39:162][503]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-18.22.39:945][549]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-18.22.40:064][556]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-18.22.40:795][588]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-18.22.40:796][588]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-18.22.41:809][628]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-18.22.41:833][629]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-18.22.41:833][629]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-18.22.42:932][676]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-18.22.43:016][680]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-18.22.43:136][686]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-18.22.44:272][745]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-18.22.44:372][750]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-18.22.44:559][761]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-18.22.45:117][786]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.09.29-18.22.45:149][786]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-18.22.48:427][786]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-18.22.48:427][786]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. Is special engine material.
+[2018.09.29-18.22.48:548][786]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. Is special engine material.
+[2018.09.29-18.22.48:715][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.09.29-18.22.48:726][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.09.29-18.22.48:740][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.09.29-18.22.48:775][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.09.29-18.22.48:789][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.09.29-18.22.49:343][786]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.09.29-18.22.49:362][786]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.09.29-18.22.49:794][786]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.09.29-18.22.50:611][786]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.09.29-18.22.50:718][786]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.09.29-18.22.50:755][786]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.09.29-18.22.50:900][786]LogShaderCompilers: Display: Shaders left to compile 141
+[2018.09.29-18.22.52:802][873]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.09.29-18.22.53:163][886]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.09.29-18.22.53:198][886]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.09.29-18.22.54:725][963]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.09.29-18.22.55:081][984]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.09.29-18.22.55:681][ 19]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.09.29-18.22.57:213][108]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.09.29-18.22.57:429][121]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.09.29-18.22.57:781][142]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.09.29-18.22.58:929][192]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.09.29-18.22.59:618][232]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.09.29-18.23.01:036][313]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.09.29-18.23.03:292][439]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.09.29-18.23.03:424][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.23.03:665][461]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.29-18.23.04:088][486]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.09.29-18.23.04:710][522]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.09.29-18.23.04:814][528]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.09.29-18.23.04:916][534]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.09.29-18.23.06:470][623]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.09.29-18.23.06:796][642]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.09.29-18.23.08:015][707]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.29-18.23.08:755][749]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.29-18.23.10:496][849]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.29-18.23.10:624][856]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.29-18.23.12:066][939]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.29-18.23.12:237][949]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.29-18.23.12:324][954]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.29-18.23.13:827][ 36]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.29-18.23.14:068][ 50]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.29-18.23.14:164][ 55]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-18.23.15:188][114]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-18.23.15:430][128]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-18.23.15:643][140]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-18.23.16:897][213]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-18.23.16:914][214]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-18.23.17:566][251]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-18.23.18:009][277]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-18.23.18:414][300]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-18.23.18:449][302]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-18.23.19:410][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.23.19:454][359]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-18.23.19:490][360]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.29-18.23.19:884][383]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.29-18.23.20:943][444]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.29-18.23.21:411][471]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.29-18.23.21:952][495]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.09.29-18.23.21:993][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2018.09.29-18.23.25:580][495]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-18.23.25:581][495]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-18.23.25:582][495]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-18.23.25:582][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. Is special engine material.
+[2018.09.29-18.23.25:680][495]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. Is special engine material.
+[2018.09.29-18.23.25:848][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.09.29-18.23.25:894][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.09.29-18.23.25:909][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.09.29-18.23.25:923][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.09.29-18.23.25:945][495]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.09.29-18.23.26:099][495]LogShaderCompilers: Display: Shaders left to compile 164
+[2018.09.29-18.23.26:189][495]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.09.29-18.23.26:261][495]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.09.29-18.23.26:667][495]LogShaderCompilers: Display: Shaders left to compile 161
+[2018.09.29-18.23.26:877][495]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.09.29-18.23.27:213][495]LogShaderCompilers: Display: Shaders left to compile 159
+[2018.09.29-18.23.27:267][495]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.09.29-18.23.27:428][495]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.09.29-18.23.27:729][495]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.09.29-18.23.27:819][495]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.09.29-18.23.27:979][495]LogShaderCompilers: Display: Shaders left to compile 154
+[2018.09.29-18.23.28:282][495]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.09.29-18.23.28:337][495]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.09.29-18.23.28:530][495]LogShaderCompilers: Display: Shaders left to compile 151
+[2018.09.29-18.23.28:777][495]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.09.29-18.23.28:777][495]LogShaderCompilers: Display: Shaders left to compile 149
+[2018.09.29-18.23.28:991][495]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.09.29-18.23.29:329][495]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.09.29-18.23.30:116][495]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.09.29-18.23.30:134][495]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.09.29-18.23.30:438][495]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.09.29-18.23.31:477][495]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.09.29-18.23.31:512][495]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.09.29-18.23.31:673][495]LogShaderCompilers: Display: Shaders left to compile 141
+[2018.09.29-18.23.32:469][495]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.09.29-18.23.32:719][495]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.09.29-18.23.32:825][495]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.09.29-18.23.33:652][495]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.09.29-18.23.33:848][495]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.09.29-18.23.34:080][495]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.09.29-18.23.34:829][495]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.09.29-18.23.34:937][495]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.09.29-18.23.35:190][495]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.09.29-18.23.36:008][495]LogShaderCompilers: Display: Shaders left to compile 131
+[2018.09.29-18.23.36:258][495]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.09.29-18.23.36:452][495]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.09.29-18.23.37:262][495]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.09.29-18.23.37:316][495]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.09.29-18.23.37:511][495]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.09.29-18.23.37:813][495]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.09.29-18.23.38:065][495]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.09.29-18.23.38:293][495]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.09.29-18.23.38:647][495]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.09.29-18.23.38:719][495]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.09.29-18.23.38:738][495]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.09.29-18.23.39:180][495]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.09.29-18.23.39:621][495]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.09.29-18.23.39:639][495]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.29-18.23.39:782][495]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.09.29-18.23.40:117][495]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.09.29-18.23.40:243][495]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.09.29-18.23.40:369][495]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.09.29-18.23.40:564][495]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.09.29-18.23.40:904][495]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.09.29-18.23.41:071][495]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.29-18.23.41:305][495]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.29-18.23.41:413][495]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.29-18.23.41:539][495]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.29-18.23.41:756][495]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.29-18.23.42:008][495]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.29-18.23.42:008][495]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-18.23.46:990][495]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-18.23.46:991][495]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-18.23.46:992][495]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-18.23.46:992][495]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-18.23.47:170][495]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-18.23.47:438][496]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-18.23.47:846][508]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-18.23.48:549][542]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-18.23.48:997][568]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-18.23.49:515][598]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-18.23.50:078][623]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-18.23.50:170][624]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-18.23.50:464][633]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-18.23.51:032][666]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-18.23.51:305][682]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-18.23.51:532][692]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-18.23.51:873][697]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-18.23.51:944][699]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-18.23.52:153][709]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-18.23.52:630][737]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-18.23.52:766][745]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-18.23.54:156][824]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.29-18.23.54:425][840]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.29-18.23.55:024][874]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.29-18.23.56:255][946]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.29-18.23.56:495][959]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.29-18.23.56:763][975]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.29-18.23.58:270][ 62]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.29-18.23.58:391][ 69]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.29-18.23.58:531][ 77]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-18.23.59:794][151]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-18.24.00:305][181]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-18.24.00:781][209]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-18.24.01:790][268]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-18.24.01:808][269]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-18.24.02:383][303]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-18.24.03:782][378]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-18.24.03:936][387]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-18.24.04:120][398]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-18.24.05:552][482]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-18.24.05:622][486]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-18.24.05:808][497]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-18.24.06:214][521]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-18.24.06:576][542]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-18.24.06:912][562]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-18.24.07:614][603]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-18.24.07:819][615]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-18.24.07:819][615]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-18.24.08:600][660]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-18.24.09:016][684]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-18.24.09:298][701]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-18.24.09:432][709]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-18.24.09:948][739]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-18.24.10:031][744]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-18.24.10:288][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-18.24.10:694][783]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-18.24.10:947][798]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-18.24.10:985][800]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-18.24.11:568][834]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-18.24.11:599][836]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-18.24.11:765][846]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-18.24.12:311][878]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-18.24.12:503][889]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-18.24.12:639][897]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-18.26.45:011][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.071
+[2018.09.29-18.26.45:019][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Bumper] ([1] browsable assets)...
+[2018.09.29-18.26.45:062][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2018.09.29-18.26.45:062][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2018.09.29-18.26.45:164][496]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper_Auto3BDFE86E54BAA38C6BCA3FC9AF8A65B45.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto3.uasset'
+[2018.09.29-18.26.45:169][496]LogFileHelpers: Auto-saving content packages took 0.154
+[2018.09.29-18.28.05:400][475]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.28.06:423][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.28.06:513][514]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper04F717974CFAB2AF323E71945CE21C97.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.30.18:055][100]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.30.19:009][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.30.19:093][130]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_BumperEFB9CE6D49F41CC9A2B3FCB2323BC793.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.32.21:213][480]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.32.22:211][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.32.22:303][515]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper112F03274708F992976B26988608B883.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.33.14:741][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\SP08_Convoy_Chase_exp.WAV)
+[2018.09.29-18.33.14:972][133]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop.mp3)
+[2018.09.29-18.33.14:985][133]LogAssetTools: Warning: Failed to import 'C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.pkf'. Unknown extension 'pkf'.
+[2018.09.29-18.33.15:420][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.wav)
+[2018.09.29-18.33.15:495][133]Error: Unable to read wave file 'victoryMusic_loop_01' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2018.09.29-18.33.25:108][133]LogSlate: Window 'Message' being destroyed
+[2018.09.29-18.33.25:112][133]LogAssetTools: Warning: Failed to import 'C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.wav'. Failed to create asset '/Game/Assets/Sounds/victoryMusic_loop_01'.
+Please see Output Log for details.
+[2018.09.29-18.33.25:122][133]LogAssetTools: Warning: Failed to import 'C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01_01.pkf'. Unknown extension 'pkf'.
+[2018.09.29-18.33.25:346][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01_01.wav)
+[2018.09.29-18.33.25:498][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Death_02.WAV)
+[2018.09.29-18.33.25:555][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Death_03_m1.WAV)
+[2018.09.29-18.33.25:595][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Fire_02_m1.WAV)
+[2018.09.29-18.33.25:621][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Fire_03_m1.WAV)
+[2018.09.29-18.33.25:651][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Arcade_GameStart.WAV)
+[2018.09.29-18.33.25:684][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Bell_Impact01.WAV)
+[2018.09.29-18.33.25:719][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Impact_Punch_High01.WAV)
+[2018.09.29-18.33.25:738][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Impact_Punch_High02.WAV)
+[2018.09.29-18.33.25:768][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Impact_Punch_High03.WAV)
+[2018.09.29-18.33.25:802][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Impact_Punch_High04.WAV)
+[2018.09.29-18.33.25:834][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallAdded.WAV)
+[2018.09.29-18.33.25:862][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallDropFromSlide.WAV)
+[2018.09.29-18.33.25:891][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallKickout.WAV)
+[2018.09.29-18.33.25:924][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallLaunch.WAV)
+[2018.09.29-18.33.25:963][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallLoose.WAV)
+[2018.09.29-18.33.25:993][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BallRelease.WAV)
+[2018.09.29-18.33.26:016][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Bell01.WAV)
+[2018.09.29-18.33.26:044][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact01.WAV)
+[2018.09.29-18.33.26:075][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact02.WAV)
+[2018.09.29-18.33.26:086][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact03.WAV)
+[2018.09.29-18.33.26:148][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact04.WAV)
+[2018.09.29-18.33.26:182][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact05.WAV)
+[2018.09.29-18.33.26:221][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Error01.WAV)
+[2018.09.29-18.33.26:237][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_FlipperLeft.WAV)
+[2018.09.29-18.33.26:251][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_FlipperRight.WAV)
+[2018.09.29-18.33.26:310][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Popup01.WAV)
+[2018.09.29-18.33.26:328][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Popup02.WAV)
+[2018.09.29-18.33.26:353][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Popup03.WAV)
+[2018.09.29-18.33.26:383][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Reset01.WAV)
+[2018.09.29-18.33.26:423][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Reset02.WAV)
+[2018.09.29-18.33.26:438][133]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Sounds\Pinball_Rolling01.WAV)
+[2018.09.29-18.35.14:969][101]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assets/Sounds/NewSoundCue.NewSoundCue
+[2018.09.29-18.35.28:715][877]LogMetaData: Removing '/Game/Assets/Sounds/BumperHit.BumperHit:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Assets/Sounds/NewSoundCue.PackageMetaData'
+[2018.09.29-18.35.28:750][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BumperHit" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/BumperHit.uasset" SILENT=true
+[2018.09.29-18.35.28:768][877]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BumperHit70609B034C07397C1ACA4BBB242AE909.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/BumperHit.uasset'
+[2018.09.29-18.36.06:767][138]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assets/Sounds/BumperHit.BumperHit
+[2018.09.29-18.36.11:882][421]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Impact_Punch_High01...
+[2018.09.29-18.36.11:882][421]LogTemp: Couldn't find amount to resample to.
+[2018.09.29-18.36.12:009][421]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46486 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01.
+[2018.09.29-18.36.13:493][498]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Impact_Punch_High02...
+[2018.09.29-18.36.13:493][498]LogTemp: Couldn't find amount to resample to.
+[2018.09.29-18.36.13:509][498]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 42328 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02.
+[2018.09.29-18.36.15:451][612]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Impact_Punch_High03...
+[2018.09.29-18.36.15:452][612]LogTemp: Couldn't find amount to resample to.
+[2018.09.29-18.36.15:469][612]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38008 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03.
+[2018.09.29-18.36.16:619][678]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Impact_Punch_High04...
+[2018.09.29-18.36.16:619][678]LogTemp: Couldn't find amount to resample to.
+[2018.09.29-18.36.16:637][678]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45036 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04.
+[2018.09.29-18.37.15:975][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.051
+[2018.09.29-18.37.16:009][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/SP08_Convoy_Chase_exp] ([1] browsable assets)...
+[2018.09.29-18.37.16:054][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/SP08_Convoy_Chase_exp.SP08_Convoy_Chase_exp]
+[2018.09.29-18.37.16:054][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/SP08_Convoy_Chase_exp]
+[2018.09.29-18.37.16:104][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/SP08_Convoy_Chase_exp_Auto4BC5E20304FC2A10125F49986100BEF40.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/SP08_Convoy_Chase_exp_Auto4.uasset'
+[2018.09.29-18.37.16:113][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Sounds/victoryMusic_loop] ([1] browsable assets)...
+[2018.09.29-18.37.16:113][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/victoryMusic_loop]
+[2018.09.29-18.37.16:135][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/victoryMusic_loop_Auto41E59816345F9840CB27863AA4F0FAD40.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/victoryMusic_loop_Auto4.uasset'
+[2018.09.29-18.37.16:143][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/victoryMusic_loop_01_01] ([1] browsable assets)...
+[2018.09.29-18.37.16:179][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/victoryMusic_loop_01_01.victoryMusic_loop_01_01]
+[2018.09.29-18.37.16:179][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/victoryMusic_loop_01_01]
+[2018.09.29-18.37.16:232][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/victoryMusic_loop_01_01_Auto4F451B7D84C3C73381564EEA95745750E.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/victoryMusic_loop_01_01_Auto4.uasset'
+[2018.09.29-18.37.16:240][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Death_02] ([1] browsable assets)...
+[2018.09.29-18.37.16:253][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_02.Arcade_Enemy_Death_02]
+[2018.09.29-18.37.16:253][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Death_02]
+[2018.09.29-18.37.16:279][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_02_Auto4E38A42FC4ACA5FBC20508DA8C9C98EAF.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Death_02_Auto4.uasset'
+[2018.09.29-18.37.16:287][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1] ([1] browsable assets)...
+[2018.09.29-18.37.16:299][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_03_m1.Arcade_Enemy_Death_03_m1]
+[2018.09.29-18.37.16:299][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1]
+[2018.09.29-18.37.16:320][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_03_m1_Auto4559FE4F44A8AFEB5680DC5AC909E02A0.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1_Auto4.uasset'
+[2018.09.29-18.37.16:328][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1] ([1] browsable assets)...
+[2018.09.29-18.37.16:339][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1.Arcade_Enemy_Fire_02_m1]
+[2018.09.29-18.37.16:339][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1]
+[2018.09.29-18.37.16:370][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_02_m1_Auto432B82157460175C8649784871499B706.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1_Auto4.uasset'
+[2018.09.29-18.37.16:378][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1] ([1] browsable assets)...
+[2018.09.29-18.37.16:392][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1.Arcade_Enemy_Fire_03_m1]
+[2018.09.29-18.37.16:392][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1]
+[2018.09.29-18.37.16:419][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_03_m1_Auto456BA69444F7F296527A73A9E9534DAAB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1_Auto4.uasset'
+[2018.09.29-18.37.16:426][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_GameStart] ([1] browsable assets)...
+[2018.09.29-18.37.16:435][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_GameStart.Arcade_GameStart]
+[2018.09.29-18.37.16:435][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_GameStart]
+[2018.09.29-18.37.16:476][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_GameStart_Auto49E10B73049B4B6C1009A6FA515171BC6.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_GameStart_Auto4.uasset'
+[2018.09.29-18.37.16:483][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Bell_Impact01] ([1] browsable assets)...
+[2018.09.29-18.37.16:498][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Bell_Impact01.Bell_Impact01]
+[2018.09.29-18.37.16:498][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Bell_Impact01]
+[2018.09.29-18.37.16:721][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Bell_Impact01_Auto4256337BC4538F6893DB8899556F25B17.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Bell_Impact01_Auto4.uasset'
+[2018.09.29-18.37.16:730][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High01] ([1] browsable assets)...
+[2018.09.29-18.37.16:741][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01]
+[2018.09.29-18.37.16:741][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High01]
+[2018.09.29-18.37.16:762][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High01_Auto45CC6CB524FD55B226C479789B1A0FA4E.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High01_Auto4.uasset'
+[2018.09.29-18.37.16:769][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High02] ([1] browsable assets)...
+[2018.09.29-18.37.16:780][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02]
+[2018.09.29-18.37.16:780][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High02]
+[2018.09.29-18.37.16:804][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High02_Auto4940A14B841A956BB5C2DF0BFF0A6A823.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High02_Auto4.uasset'
+[2018.09.29-18.37.16:812][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High03] ([1] browsable assets)...
+[2018.09.29-18.37.16:824][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03]
+[2018.09.29-18.37.16:824][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High03]
+[2018.09.29-18.37.16:852][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High03_Auto4A560B0244AA8B0DEEDC6219B15B6C2BC.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High03_Auto4.uasset'
+[2018.09.29-18.37.16:861][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High04] ([1] browsable assets)...
+[2018.09.29-18.37.16:871][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04]
+[2018.09.29-18.37.16:872][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High04]
+[2018.09.29-18.37.16:898][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High04_Auto41C9C7DC74B20D8BA17D163B3649ABB45.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High04_Auto4.uasset'
+[2018.09.29-18.37.16:907][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallAdded] ([1] browsable assets)...
+[2018.09.29-18.37.16:915][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallAdded.Pinball_BallAdded]
+[2018.09.29-18.37.16:915][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallAdded]
+[2018.09.29-18.37.16:945][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallAdded_Auto465B412E5400AE18FFE9E1FB5936A3483.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallAdded_Auto4.uasset'
+[2018.09.29-18.37.16:955][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallDropFromSlide] ([1] browsable assets)...
+[2018.09.29-18.37.16:967][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallDropFromSlide.Pinball_BallDropFromSlide]
+[2018.09.29-18.37.16:967][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallDropFromSlide]
+[2018.09.29-18.37.16:998][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallDropFromSlide_Auto404793A244CF2D7566ADE56BC9BABB902.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallDropFromSlide_Auto4.uasset'
+[2018.09.29-18.37.17:007][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallKickout] ([1] browsable assets)...
+[2018.09.29-18.37.17:019][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallKickout.Pinball_BallKickout]
+[2018.09.29-18.37.17:019][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallKickout]
+[2018.09.29-18.37.17:173][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallKickout_Auto40265B7CF4252AD12353BF988E287FDBB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallKickout_Auto4.uasset'
+[2018.09.29-18.37.17:212][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallLaunch] ([1] browsable assets)...
+[2018.09.29-18.37.17:222][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallLaunch.Pinball_BallLaunch]
+[2018.09.29-18.37.17:222][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallLaunch]
+[2018.09.29-18.37.17:250][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallLaunch_Auto48036866D465AAE322BF894AD5293C1CD.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallLaunch_Auto4.uasset'
+[2018.09.29-18.37.17:259][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallLoose] ([1] browsable assets)...
+[2018.09.29-18.37.17:271][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallLoose.Pinball_BallLoose]
+[2018.09.29-18.37.17:271][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallLoose]
+[2018.09.29-18.37.17:300][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallLoose_Auto49845C2EA42FB7F681CF2F7B036301EA5.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallLoose_Auto4.uasset'
+[2018.09.29-18.37.17:309][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallRelease] ([1] browsable assets)...
+[2018.09.29-18.37.17:320][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallRelease.Pinball_BallRelease]
+[2018.09.29-18.37.17:320][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallRelease]
+[2018.09.29-18.37.17:347][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallRelease_Auto4CA4C47824A06BB6F32FD35A7A577560B.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallRelease_Auto4.uasset'
+[2018.09.29-18.37.17:356][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Bell01] ([1] browsable assets)...
+[2018.09.29-18.37.17:369][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01]
+[2018.09.29-18.37.17:369][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Bell01]
+[2018.09.29-18.37.17:554][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Bell01_Auto4722FF69444F2D76ECC7C448ADE1C5BDA.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Bell01_Auto4.uasset'
+[2018.09.29-18.37.17:563][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact01] ([1] browsable assets)...
+[2018.09.29-18.37.17:573][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01]
+[2018.09.29-18.37.17:573][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact01]
+[2018.09.29-18.37.17:602][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact01_Auto4295F98E74DE6BBE96E0E2F82F01DD843.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact01_Auto4.uasset'
+[2018.09.29-18.37.17:610][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact02] ([1] browsable assets)...
+[2018.09.29-18.37.17:621][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02]
+[2018.09.29-18.37.17:621][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact02]
+[2018.09.29-18.37.17:645][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact02_Auto45F4B2C7542572B631422A78EB546A8DB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact02_Auto4.uasset'
+[2018.09.29-18.37.17:652][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact03] ([1] browsable assets)...
+[2018.09.29-18.37.17:663][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03]
+[2018.09.29-18.37.17:663][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact03]
+[2018.09.29-18.37.17:688][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact03_Auto496F68CD94543FC8864AFF8B63669E068.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact03_Auto4.uasset'
+[2018.09.29-18.37.17:698][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact04] ([1] browsable assets)...
+[2018.09.29-18.37.17:707][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04]
+[2018.09.29-18.37.17:707][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact04]
+[2018.09.29-18.37.17:732][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact04_Auto4214945E84466DA04077EDF9CE33F6A67.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact04_Auto4.uasset'
+[2018.09.29-18.37.17:740][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact05] ([1] browsable assets)...
+[2018.09.29-18.37.17:749][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05]
+[2018.09.29-18.37.17:749][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact05]
+[2018.09.29-18.37.17:775][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact05_Auto4418E840C42F7AE60A5691EA4FD07C9FB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact05_Auto4.uasset'
+[2018.09.29-18.37.17:785][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Error01] ([1] browsable assets)...
+[2018.09.29-18.37.17:794][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01]
+[2018.09.29-18.37.17:794][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Error01]
+[2018.09.29-18.37.17:817][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Error01_Auto4AB6E696249AD3616172E249800252FB4.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Error01_Auto4.uasset'
+[2018.09.29-18.37.17:825][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_FlipperLeft] ([1] browsable assets)...
+[2018.09.29-18.37.17:833][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft]
+[2018.09.29-18.37.17:833][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_FlipperLeft]
+[2018.09.29-18.37.17:908][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperLeft_Auto437E5A0004CDAFE4A5A2B15B92C238D96.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_FlipperLeft_Auto4.uasset'
+[2018.09.29-18.37.17:916][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_FlipperRight] ([1] browsable assets)...
+[2018.09.29-18.37.17:926][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_FlipperRight.Pinball_FlipperRight]
+[2018.09.29-18.37.17:926][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_FlipperRight]
+[2018.09.29-18.37.17:952][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperRight_Auto4A065730D457A06F5234A8D87CEFC7A4D.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_FlipperRight_Auto4.uasset'
+[2018.09.29-18.37.17:960][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup01] ([1] browsable assets)...
+[2018.09.29-18.37.17:971][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup01.Pinball_Popup01]
+[2018.09.29-18.37.17:971][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup01]
+[2018.09.29-18.37.17:999][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup01_Auto4E4E8E9824064D8B6678AD2A966EEA252.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup01_Auto4.uasset'
+[2018.09.29-18.37.18:008][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup02] ([1] browsable assets)...
+[2018.09.29-18.37.18:019][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup02.Pinball_Popup02]
+[2018.09.29-18.37.18:019][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup02]
+[2018.09.29-18.37.18:047][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup02_Auto4E9A54E1344E3C3D7306A9F94A32FA3DB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup02_Auto4.uasset'
+[2018.09.29-18.37.18:056][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup03] ([1] browsable assets)...
+[2018.09.29-18.37.18:067][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup03.Pinball_Popup03]
+[2018.09.29-18.37.18:067][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup03]
+[2018.09.29-18.37.18:091][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup03_Auto4EE8BE83B45AD1AD833F712BDC5C950B3.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup03_Auto4.uasset'
+[2018.09.29-18.37.18:099][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Reset01] ([1] browsable assets)...
+[2018.09.29-18.37.18:110][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Reset01.Pinball_Reset01]
+[2018.09.29-18.37.18:110][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Reset01]
+[2018.09.29-18.37.18:138][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Reset01_Auto465C5D2894294792C9D724782F6751D85.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Reset01_Auto4.uasset'
+[2018.09.29-18.37.18:147][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Reset02] ([1] browsable assets)...
+[2018.09.29-18.37.18:159][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Reset02.Pinball_Reset02]
+[2018.09.29-18.37.18:159][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Reset02]
+[2018.09.29-18.37.18:216][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Reset02_Auto470F55EEA48D19D0F1E4CC993CE2ACBF5.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Reset02_Auto4.uasset'
+[2018.09.29-18.37.18:225][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Rolling01] ([1] browsable assets)...
+[2018.09.29-18.37.18:239][610]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Rolling01.Pinball_Rolling01]
+[2018.09.29-18.37.18:239][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Rolling01]
+[2018.09.29-18.37.18:268][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Rolling01_Auto48078E9C748D1E53859C1B09CC06998A8.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Rolling01_Auto4.uasset'
+[2018.09.29-18.37.18:277][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Sounds/BumperHit] ([1] browsable assets)...
+[2018.09.29-18.37.18:277][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/BumperHit]
+[2018.09.29-18.37.18:321][610]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BumperHit_Auto481B40860419373D1970FCD85E86C5EC9.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Sounds/BumperHit_Auto4.uasset'
+[2018.09.29-18.37.18:326][610]LogFileHelpers: Auto-saving content packages took 2.350
+[2018.09.29-18.37.23:225][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BumperHit" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/BumperHit.uasset" SILENT=true
+[2018.09.29-18.37.23:254][891]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BumperHitD04E1FFA47D7BACA19BFD087BEBDEDAC.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/BumperHit.uasset'
+[2018.09.29-18.38.42:862][ 91]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.38.43:762][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.38.43:862][121]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Bumper0A181FD54EECC0174462FFA4D8B9CB33.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.39.17:120][624]BlueprintLog: New page: Compile BP_Bumper
+[2018.09.29-18.39.17:978][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2018.09.29-18.39.18:067][648]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_BumperF36DD6A94869CDBD2CE0E0B7CDCAF9E7.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2018.09.29-18.39.58:467][499]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.29-18.40.00:789][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.40.31:074][270]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.29-18.40.34:907][486]Cmd: SELECT NONE
+[2018.09.29-18.40.37:416][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.41.11:895][652]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2018.09.29-18.41.26:553][520]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.42.09:314][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.42.09:357][ 16]PIE: New page: SIE session: Pinball (30-Sep-2018 5:42:09 am)
+[2018.09.29-18.42.09:357][ 16]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.42.09:519][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161002s)
+[2018.09.29-18.42.09:520][ 16]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.42.09:520][ 16]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2018.09.29-18.42.09:520][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.162476s)
+[2018.09.29-18.42.09:584][ 16]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.42.09:621][ 16]LogInit: FAudioDevice initialized.
+[2018.09.29-18.42.09:622][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.42.09:672][ 16]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.42.09:677][ 16]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.12.09
+[2018.09.29-18.42.09:677][ 16]LogWorld: Bringing up level for play took: 0.003189
+[2018.09.29-18.42.09:857][ 16]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2018.09.29-18.42.09:859][ 16]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.127
+[2018.09.29-18.42.13:654][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.42.13:690][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.42.13:732][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.42.13:827][172]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.29-18.42.23:074][713]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2018.09.29-18.42.30:224][119]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.42.48:437][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.42.48:573][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.29-18.42.48:737][185]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/PinballC8B5494C4706D201DCB91EA67BFFF133.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap'
+[2018.09.29-18.42.48:813][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball_BuiltData" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset" SILENT=true
+[2018.09.29-18.42.49:130][185]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltDataFDD2762D41314DC099DAA4A84E0E04D0.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset'
+[2018.09.29-18.42.55:893][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.42.56:009][580]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.42.56:036][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.42.56:036][580]PIE: New page: SIE session: Pinball (30-Sep-2018 5:42:56 am)
+[2018.09.29-18.42.56:037][580]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.42.56:046][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009638s)
+[2018.09.29-18.42.56:047][580]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.42.56:048][580]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2018.09.29-18.42.56:048][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.011006s)
+[2018.09.29-18.42.56:094][580]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.42.56:119][580]LogInit: FAudioDevice initialized.
+[2018.09.29-18.42.56:156][580]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.42.56:159][580]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.12.56
+[2018.09.29-18.42.56:159][580]LogWorld: Bringing up level for play took: 0.002962
+[2018.09.29-18.42.56:173][580]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.188
+[2018.09.29-18.43.01:638][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.01:684][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.43.01:728][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.01:753][876]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.29-18.43.02:797][928]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.43.05:642][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.43.05:759][100]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.43.05:785][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.43.05:785][100]PIE: New page: SIE session: Pinball (30-Sep-2018 5:43:05 am)
+[2018.09.29-18.43.05:785][100]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.43.05:795][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010284s)
+[2018.09.29-18.43.05:796][100]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.43.05:797][100]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2018.09.29-18.43.05:797][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.011982s)
+[2018.09.29-18.43.05:842][100]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.43.05:865][100]LogInit: FAudioDevice initialized.
+[2018.09.29-18.43.05:900][100]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.43.05:903][100]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.13.05
+[2018.09.29-18.43.05:904][100]LogWorld: Bringing up level for play took: 0.002945
+[2018.09.29-18.43.05:918][100]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.067
+[2018.09.29-18.43.15:520][631]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.43.18:537][783]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2018.09.29-18.43.21:974][954]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.43.35:708][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.35:756][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.43.35:796][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.35:812][723]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.29-18.43.37:442][811]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.43.48:962][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.43.49:045][464]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.43.49:068][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.43.49:069][464]PIE: New page: SIE session: Pinball (30-Sep-2018 5:43:49 am)
+[2018.09.29-18.43.49:069][464]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.43.49:078][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009471s)
+[2018.09.29-18.43.49:079][464]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.43.49:079][464]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2018.09.29-18.43.49:079][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.010681s)
+[2018.09.29-18.43.49:123][464]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.43.49:144][464]LogInit: FAudioDevice initialized.
+[2018.09.29-18.43.49:177][464]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.43.49:179][464]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.13.49
+[2018.09.29-18.43.49:179][464]LogWorld: Bringing up level for play took: 0.001942
+[2018.09.29-18.43.49:192][464]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.792
+[2018.09.29-18.43.58:947][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.58:989][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.43.59:028][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.43.59:061][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.29-18.43.59:940][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2018.09.29-18.44.03:484][282]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2018.09.29-18.44.09:570][623]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.44.15:583][979]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2018.09.29-18.44.30:313][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.44.30:429][850]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.44.30:454][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.44.30:454][850]PIE: New page: SIE session: Pinball (30-Sep-2018 5:44:30 am)
+[2018.09.29-18.44.30:454][850]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.44.30:462][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008567s)
+[2018.09.29-18.44.30:464][850]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.44.30:464][850]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2018.09.29-18.44.30:464][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.009724s)
+[2018.09.29-18.44.30:518][850]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.44.30:539][850]LogInit: FAudioDevice initialized.
+[2018.09.29-18.44.30:575][850]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.44.30:578][850]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.14.30
+[2018.09.29-18.44.30:578][850]LogWorld: Bringing up level for play took: 0.002216
+[2018.09.29-18.44.30:591][850]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.607
+[2018.09.29-18.44.39:374][333]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.44.41:410][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.44.44:799][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.44.47:008][726]Cmd: SELECT NONE
+[2018.09.29-18.44.48:220][794]Cmd: SELECT NONE
+[2018.09.29-18.44.49:103][847]Cmd: SELECT NONE
+[2018.09.29-18.44.49:531][870]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper6)
+[2018.09.29-18.44.50:933][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.44.50:974][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.44.51:014][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.44.51:116][918]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.29-18.44.52:192][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.44.52:308][987]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.44.52:329][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.44.52:329][987]PIE: New page: SIE session: Pinball (30-Sep-2018 5:44:52 am)
+[2018.09.29-18.44.52:329][987]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.44.52:338][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008663s)
+[2018.09.29-18.44.52:339][987]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.44.52:339][987]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2018.09.29-18.44.52:339][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.010120s)
+[2018.09.29-18.44.52:380][987]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.44.52:401][987]LogInit: FAudioDevice initialized.
+[2018.09.29-18.44.52:435][987]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.44.52:438][987]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.14.52
+[2018.09.29-18.44.52:439][987]LogWorld: Bringing up level for play took: 0.002459
+[2018.09.29-18.44.52:452][987]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.467
+[2018.09.29-18.44.58:303][322]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.44.59:776][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.44.59:816][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.44.59:853][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.44.59:891][394]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.09.29-18.45.00:941][450]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.45.12:784][140]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper)
+[2018.09.29-18.45.13:534][181]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper2)
+[2018.09.29-18.45.15:577][298]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper4)
+[2018.09.29-18.45.19:212][506]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.45.20:307][569]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper6)
+[2018.09.29-18.45.21:886][661]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Bumper_C (BP_Bumper3)
+[2018.09.29-18.45.23:768][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.45.31:833][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.29-18.45.33:343][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.45.33:459][339]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.45.33:503][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.45.33:504][339]PIE: New page: SIE session: Pinball (30-Sep-2018 5:45:33 am)
+[2018.09.29-18.45.33:504][339]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.45.33:513][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009080s)
+[2018.09.29-18.45.33:514][339]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.45.33:514][339]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.09.29-18.45.33:514][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.010190s)
+[2018.09.29-18.45.33:557][339]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.45.33:579][339]LogInit: FAudioDevice initialized.
+[2018.09.29-18.45.33:611][339]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.45.33:614][339]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.15.33
+[2018.09.29-18.45.33:614][339]LogWorld: Bringing up level for play took: 0.002030
+[2018.09.29-18.45.33:628][339]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.357
+[2018.09.29-18.45.41:358][779]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2018.09.29-18.45.42:583][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.45.42:624][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.45.42:668][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.45.42:759][843]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.09.29-18.45.43:691][893]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2018.09.29-18.45.48:150][156]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper5)
+[2018.09.29-18.45.56:568][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.45.56:701][661]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.45.56:725][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.45.56:725][661]PIE: New page: SIE session: Pinball (30-Sep-2018 5:45:56 am)
+[2018.09.29-18.45.56:725][661]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.45.56:734][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009540s)
+[2018.09.29-18.45.56:735][661]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.45.56:735][661]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2018.09.29-18.45.56:736][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.010684s)
+[2018.09.29-18.45.56:779][661]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.45.56:801][661]LogInit: FAudioDevice initialized.
+[2018.09.29-18.45.56:832][661]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.45.56:834][661]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.15.56
+[2018.09.29-18.45.56:834][661]LogWorld: Bringing up level for play took: 0.002096
+[2018.09.29-18.45.56:847][661]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.863
+[2018.09.29-18.46.03:303][ 32]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2018.09.29-18.46.04:191][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.46.04:234][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.46.04:272][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.46.04:305][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.09.29-18.46.05:211][125]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper2)
+[2018.09.29-18.46.10:428][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.46.10:528][439]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.46.10:550][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.46.10:550][439]PIE: New page: SIE session: Pinball (30-Sep-2018 5:46:10 am)
+[2018.09.29-18.46.10:550][439]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.46.10:561][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010401s)
+[2018.09.29-18.46.10:562][439]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.46.10:562][439]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.09.29-18.46.10:562][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.011547s)
+[2018.09.29-18.46.10:605][439]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.46.10:626][439]LogInit: FAudioDevice initialized.
+[2018.09.29-18.46.10:668][439]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.46.10:670][439]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.16.10
+[2018.09.29-18.46.10:671][439]LogWorld: Bringing up level for play took: 0.002420
+[2018.09.29-18.46.10:684][439]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.699
+[2018.09.29-18.46.24:893][265]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2018.09.29-18.46.36:348][869]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2018.09.29-18.47.15:254][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.47.15:296][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.47.15:341][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.47.15:359][995]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.29-18.47.17:797][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.47.17:896][135]LogTemp: Repeating last play command: Simulate
+[2018.09.29-18.47.17:966][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.29-18.47.17:967][135]PIE: New page: SIE session: Pinball (30-Sep-2018 5:47:17 am)
+[2018.09.29-18.47.17:967][135]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.09.29-18.47.17:976][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009491s)
+[2018.09.29-18.47.17:977][135]LogAIModule: Creating AISystem for world Pinball
+[2018.09.29-18.47.17:977][135]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2018.09.29-18.47.17:977][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.010753s)
+[2018.09.29-18.47.18:019][135]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-18.47.18:040][135]LogInit: FAudioDevice initialized.
+[2018.09.29-18.47.18:073][135]LogLoad: Game class is 'GameModeBase'
+[2018.09.29-18.47.18:075][135]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.09.30-00.17.18
+[2018.09.29-18.47.18:075][135]LogWorld: Bringing up level for play took: 0.002023
+[2018.09.29-18.47.18:089][135]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.104
+[2018.09.29-18.47.29:557][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.47.29:600][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.29-18.47.29:639][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-18.47.29:726][792]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.29-18.48.48:834][354]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.29-18.48.58:560][928]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Flippers.Flippers
+[2018.09.29-18.49.23:481][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.29-18.49.23:625][439]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball1411BA02479DB090EB677391FD062DEA.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap'
+[2018.09.29-18.49.23:685][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball_BuiltData" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset" SILENT=true
+[2018.09.29-18.49.23:840][439]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltData92A7FB3848E84BBA46011FB8C0E04143.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset'
+[2018.09.29-18.49.44:409][897]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Flipper.FBX)
+[2018.09.29-18.49.44:429][897]LogFbx: Loading FBX Scene from C:\Users\g s khagta\Downloads\Udemy - Unreal Engine 4 - How to Develop Your First Two Games\2 Developing a game of Pinball\PinballAssets\PinballAssets\Flipper.FBX
+[2018.09.29-18.49.44:438][897]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.29-18.50.02:004][897]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.29-18.50.02:130][897]LogStaticMesh: Building static mesh Flipper...
+[2018.09.29-18.50.02:153][897]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Flipper.Flipper
+[2018.09.29-18.50.02:224][897]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.09.29-18.50.04:412][ 12]LogSlate: Window 'Message Log' being destroyed
+[2018.09.29-18.50.04:417][ 12]LogSlate: Window 'Message Log' being destroyed
+[2018.09.29-18.51.24:832][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.52.01:301][561]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Flippers.Flippers
+[2018.09.29-18.52.01:622][561]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.09.29-18.52.06:351][829]LogSlate: Window 'CompilerResults' being destroyed
+[2018.09.29-18.52.06:356][829]LogSlate: Window 'CompilerResults' being destroyed
+[2018.09.29-18.52.13:348][233]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Flippers.Flippers
+[2018.09.29-18.52.13:698][233]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.09.29-18.52.15:841][348]LogSlate: Window 'CompilerResults' being destroyed
+[2018.09.29-18.52.15:846][348]LogSlate: Window 'CompilerResults' being destroyed
+[2018.09.29-18.52.20:745][537]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.29-18.52.20:995][537]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.29-18.52.38:279][775]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.29-18.52.44:904][146]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Flippers.Flippers
+[2018.09.29-18.52.54:856][282]LogSlate: Window 'Flippers*' being destroyed
+[2018.09.29-18.53.35:852][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.54.00:024][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-18.55.40:699][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.29-18.57.22:389][824]BlueprintLog: New page: Compile Flippers
+[2018.09.29-18.57.23:362][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.09.29-18.57.23:445][859]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/FlippersD0ABACDE4D29D37C6F2313BCD27A8C88.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.09.29-18.57.43:597][247]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Blueprints/FlipType.FlipType
+[2018.09.29-18.58.47:577][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlipType" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/FlipType.uasset" SILENT=true
+[2018.09.29-18.58.47:593][ 23]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/FlipType69DE97A14267A8F8C477D490D99B6233.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/FlipType.uasset'
+[2018.09.29-18.59.33:989][ 42]LogSlate: Took 0.034297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.29-18.59.36:799][195]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.040
+[2018.09.29-18.59.36:803][195]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Flippers] ([1] browsable assets)...
+[2018.09.29-18.59.36:816][195]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Flippers.Flippers]
+[2018.09.29-18.59.36:816][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Flippers]
+[2018.09.29-18.59.36:870][195]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers_Auto50CD41CEB44B838A2FB0A3E8808F4D61D.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/Flippers_Auto5.uasset'
+[2018.09.29-18.59.36:876][195]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Flipper] ([1] browsable assets)...
+[2018.09.29-18.59.36:890][195]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Flipper.Flipper]
+[2018.09.29-18.59.36:890][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Flipper]
+[2018.09.29-18.59.36:920][195]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flipper_Auto5453FAEC94A247DC1565C39B5E24A9555.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/Flipper_Auto5.uasset'
+[2018.09.29-18.59.36:924][195]LogFileHelpers: Auto-saving content packages took 0.124
+[2018.09.29-18.59.52:855][850]BlueprintLog: New page: Compile Flippers
+[2018.09.29-19.02.23:909][690]BlueprintLog: New page: Compile Flippers
+[2018.09.29-19.02.25:246][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.09.29-19.02.25:296][750]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers72DFAE7649CAD788E420D39D16C11437.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.09.29-19.03.57:072][935]BlueprintLog: New page: Compile Flippers
+[2018.09.29-19.03.58:259][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.09.29-19.03.58:309][986]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers4065C0164B7D7CE1AA7D7DB9CC9EB0F1.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.09.29-19.04.56:949][826]LogEditorTransaction: Undo Add Node
+[2018.09.29-19.05.41:476][233]BlueprintLog: New page: Compile Flippers
+[2018.09.29-19.05.42:675][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.09.29-19.05.42:737][280]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/FlippersD3AB86724D2EE87D9F919EB1007A14EC.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.09.29-19.05.51:848][794]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Flipper.Flipper
+[2018.09.29-19.05.53:969][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Flipper" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Flipper.uasset" SILENT=true
+[2018.09.29-19.05.54:012][845]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/FlipperC5B76ABF40725266E9C2C6A382D9DE22.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Flipper.uasset'
+[2018.09.29-19.06.10:153][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.29-19.06.10:435][478]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball7486B7B2446CFD9F7550F6B74D65CDA0.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap'
+[2018.09.29-19.06.41:145][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball_BuiltData" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset" SILENT=true
+[2018.09.29-19.06.41:459][478]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltData36E3204A446855BD34CBE393166A2970.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset'
+[2018.09.29-19.07.22:340][116]LogSlate: Window 'Save Content' being destroyed
+[2018.09.29-19.07.22:448][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_02151BFFD341E11FE3745984811E5A09CB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_02.uasset'
+[2018.09.29-19.07.22:540][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Death_03_m181D484E148D4FC29ED6A849C38B1679F.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Death_03_m1.uasset'
+[2018.09.29-19.07.22:621][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_02_m1E7F925EF4D8C8C2F76C43EBFC3B0120A.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_02_m1.uasset'
+[2018.09.29-19.07.22:717][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_Enemy_Fire_03_m16C03746941959CBA7E9E519E1D07DEA6.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_Enemy_Fire_03_m1.uasset'
+[2018.09.29-19.07.22:785][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Arcade_GameStart" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_GameStart.uasset" SILENT=true
+[2018.09.29-19.07.22:817][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Arcade_GameStartBD93BEED4FCA69956785CA8562741F1C.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Arcade_GameStart.uasset'
+[2018.09.29-19.07.22:860][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Bell_Impact01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Bell_Impact01.uasset" SILENT=true
+[2018.09.29-19.07.22:926][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Bell_Impact01B4187B7F46AFB77176B943A31A07BD22.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Bell_Impact01.uasset'
+[2018.09.29-19.07.23:003][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High0145E769214B5871276ECF359CC4F990AD.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High01.uasset'
+[2018.09.29-19.07.23:081][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High028CD039FC4616BDA3E2BC4FB8C9E4746D.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High02.uasset'
+[2018.09.29-19.07.23:159][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High036E38315F4E633779C49EC48BBC8882CE.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High03.uasset'
+[2018.09.29-19.07.23:240][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Impact_Punch_High041C612E5E4444B13F4C4D61BB4E825BAF.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Impact_Punch_High04.uasset'
+[2018.09.29-19.07.23:284][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallAdded" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallAdded.uasset" SILENT=true
+[2018.09.29-19.07.23:318][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallAdded804ECCA54243A98C50C41FB1B801179B.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallAdded.uasset'
+[2018.09.29-19.07.23:394][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallDropFromSlide10717D244FC058BECA5FC69905B04834.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallDropFromSlide.uasset'
+[2018.09.29-19.07.23:462][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallKickout31A310FD47553E09F3AB3A929BE3D29A.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallKickout.uasset'
+[2018.09.29-19.07.23:528][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallLaunch0526F9194B13C74617BFC3A4175EF09A.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLaunch.uasset'
+[2018.09.29-19.07.23:565][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_BallLoose" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLoose.uasset" SILENT=true
+[2018.09.29-19.07.23:596][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallLooseEB05CEB44A481D4631067C871CB9AE06.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallLoose.uasset'
+[2018.09.29-19.07.23:702][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BallRelease492A4175402F87894F97FFA50531C6B3.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BallRelease.uasset'
+[2018.09.29-19.07.23:747][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Bell01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Bell01.uasset" SILENT=true
+[2018.09.29-19.07.23:847][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Bell01545A71764688170120397CA6C3682357.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Bell01.uasset'
+[2018.09.29-19.07.23:928][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact013E372810460C58A737E87A843A08F923.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact01.uasset'
+[2018.09.29-19.07.24:079][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact021246060043C6BA1B61682BA2D2E79430.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact02.uasset'
+[2018.09.29-19.07.24:179][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact032B2850934CF064ED8B66E6AA6FEB3135.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact03.uasset'
+[2018.09.29-19.07.24:256][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact04110AA0CA4FF804428095D88DA35FF0C4.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact04.uasset'
+[2018.09.29-19.07.24:328][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BumperImpact0520D80E9845F02A085818BDB01AC0E5DC.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_BumperImpact05.uasset'
+[2018.09.29-19.07.24:374][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Error01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Error01.uasset" SILENT=true
+[2018.09.29-19.07.24:402][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Error01641682D54A8EAB469463BAA926B297A7.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Error01.uasset'
+[2018.09.29-19.07.24:471][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperLeft3E4C0FD34924123E8B6457BBD720AC85.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperLeft.uasset'
+[2018.09.29-19.07.24:538][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperRight507420C24789627F92FE7B813822F5D7.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperRight.uasset'
+[2018.09.29-19.07.24:583][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup01.uasset" SILENT=true
+[2018.09.29-19.07.24:614][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup01123884FB4EE07AECFDC01982952FBB49.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup01.uasset'
+[2018.09.29-19.07.24:658][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup02" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup02.uasset" SILENT=true
+[2018.09.29-19.07.24:686][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup02C8E1BDC34B3AB0620FD1DABA070EBC41.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup02.uasset'
+[2018.09.29-19.07.24:727][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Popup03" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup03.uasset" SILENT=true
+[2018.09.29-19.07.24:757][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Popup03DCAA13BD4FB6056FB02E2780EACF4C5A.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Popup03.uasset'
+[2018.09.29-19.07.24:803][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Reset01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset01.uasset" SILENT=true
+[2018.09.29-19.07.24:831][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Reset016CC050D9478D639118282DA8277ED5A7.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset01.uasset'
+[2018.09.29-19.07.24:870][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Reset02" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset02.uasset" SILENT=true
+[2018.09.29-19.07.24:900][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Reset02716F53BE4B98ED5B94290C95EEE5B846.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Reset02.uasset'
+[2018.09.29-19.07.24:947][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/Pinball_Rolling01" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Rolling01.uasset" SILENT=true
+[2018.09.29-19.07.24:980][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Rolling0192587CAA4FF53BB475C5C49D599E6223.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Rolling01.uasset'
+[2018.09.29-19.07.25:098][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/SP08_Convoy_Chase_expD6268C2B446E49D0EBE0A0824DE72A38.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/SP08_Convoy_Chase_exp.uasset'
+[2018.09.29-19.07.25:131][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/victoryMusic_loop" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop.uasset" SILENT=true
+[2018.09.29-19.07.25:164][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/victoryMusic_loop83C7CBA14F5C5B22BC51599ABD429626.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop.uasset'
+[2018.09.29-19.07.25:343][116]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/victoryMusic_loop_01_01DA43572E4B5BAF741163FE965683D038.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/victoryMusic_loop_01_01.uasset'
+[2018.09.29-19.07.26:732][116]LogSlate: Window 'Pinball - Unreal Editor' being destroyed
+[2018.09.29-19.07.32:128][117]Cmd: QUIT_EDITOR

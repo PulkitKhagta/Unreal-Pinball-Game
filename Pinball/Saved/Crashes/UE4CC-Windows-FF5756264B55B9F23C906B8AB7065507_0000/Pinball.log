@@ -1,0 +1,646 @@
+﻿Log file open, 09/29/18 22:12:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.431616
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.721s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.29-16.42.04:676][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-16.42.04:676][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.29-16.42.04:846][  0]LogHAL: Display: Platform has ~ 8 GB [8508420096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.29-16.42.04:847][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.29-16.42.04:847][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.29-16.42.04:848][  0]LogInit: Computer: DESKTOP-71863RE
+[2018.09.29-16.42.04:848][  0]LogInit: User: gskhagta
+[2018.09.29-16.42.04:848][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.29-16.42.04:848][  0]LogInit: High frequency timer resolution =2.143478 MHz
+[2018.09.29-16.42.04:850][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.09.29-16.42.04:850][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.29-16.42.04:850][  0]LogMemory: Process Physical Memory: 100.00 MB used, 100.00 MB peak
+[2018.09.29-16.42.04:850][  0]LogMemory: Process Virtual Memory: 84.34 MB used, 84.34 MB peak
+[2018.09.29-16.42.04:850][  0]LogMemory: Physical Memory: 4504.63 MB used,  3609.64 MB free, 8114.26 MB total
+[2018.09.29-16.42.04:850][  0]LogMemory: Virtual Memory: 4621.12 MB used,  3609.64 MB free, 134217728.00 MB total
+[2018.09.29-16.42.04:989][  0]LogInit: Using OS detected language (en-US).
+[2018.09.29-16.42.04:989][  0]LogInit: Using OS detected locale (en-IN).
+[2018.09.29-16.42.04:993][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.29-16.42.06:404][  0]LogStreaming: Display: Took  1.416s to InitEngineTextLocalization.
+[2018.09.29-16.42.06:404][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.29-16.42.06:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.29-16.42.06:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.29-16.42.18:872][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-16.42.18:872][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.29-16.42.19:496][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.09.29-16.42.19:496][  0]LogD3D11RHI:       2020/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.29-16.42.19:511][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.09.29-16.42.19:511][  0]LogD3D11RHI:       128/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.29-16.42.19:518][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.29-16.42.19:518][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.29-16.42.19:518][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.29-16.42.19:592][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.29-16.42.19:592][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.29-16.42.19:592][  0]LogWindows: EnumDisplayDevices:
+[2018.09.29-16.42.19:593][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.09.29-16.42.19:594][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.09.29-16.42.19:595][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.09.29-16.42.19:596][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.29-16.42.19:596][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.09.29-16.42.19:596][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.29-16.42.19:597][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.29-16.42.19:597][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.09.29-16.42.19:711][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.29-16.42.19:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.09.29-16.42.19:735][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/Shaders/WorkingDirectory/15924/).
+[2018.09.29-16.42.19:736][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/g s khagta/AppData/Local/Temp/UnrealShaderWorkingDir/727BC3B848D18A91602A10B80FD7C00C/'.
+[2018.09.29-16.42.21:986][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.29-16.42.22:046][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.29-16.42.22:100][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.29-16.42.22:150][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.29-16.42.22:230][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.29-16.42.22:283][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.29-16.42.22:336][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.29-16.42.22:396][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.29-16.42.22:424][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:862][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.29-16.42.22:867][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.29-16.42.23:045][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-16.42.23:045][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.29-16.42.23:134][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-16.42.23:134][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.29-16.42.23:175][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.29-16.42.23:214][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.29-16.42.23:246][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.29-16.42.23:343][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.29-16.42.23:385][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.29-16.42.23:385][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.29-16.42.23:765][  0]LogXGEController: Cleaning working directory: C:/Users/g s khagta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.29-16.42.23:765][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.29-16.42.23:766][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.29-16.42.23:766][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.29-16.42.27:113][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.29-16.42.28:292][  0]LogDerivedDataCache: Loaded boot cache 1.18s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.29-16.42.28:293][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.29-16.42.28:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.29-16.42.28:294][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.29-16.42.28:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.29-16.42.28:294][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.29-16.42.28:367][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.29-16.42.28:383][  0]LogDerivedDataCache: Using Local data cache path C:/Users/g s khagta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.29-16.42.28:383][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.29-16.42.28:383][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.29-16.42.28:455][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.29-16.42.28:463][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.29-16.42.28:465][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.29-16.42.28:732][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2018.09.29-16.42.30:020][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.29-16.42.30:567][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.29-16.42.30:598][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.29-16.42.30:598][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.29-16.42.30:598][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.29-16.42.30:598][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.29-16.42.30:924][  0]LogNetVersion: Pinball 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 450249559)
+[2018.09.29-16.42.34:520][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.488639 seconds
+[2018.09.29-16.42.34:543][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.29-16.42.34:543][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.29-16.42.34:543][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.29-16.42.53:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.29-16.42.53:281][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.29-16.42.54:442][  0]SourceControl: Source control is disabled
+[2018.09.29-16.42.54:442][  0]SourceControl: Source control is disabled
+[2018.09.29-16.42.54:446][  0]SourceControl: Source control is disabled
+[2018.09.29-16.42.54:449][  0]SourceControl: Source control is disabled
+[2018.09.29-16.42.54:875][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.29-16.42.55:058][  0]LogOcInput: OculusInput pre-init called
+[2018.09.29-16.42.55:226][  0]LogEngine: Initializing Engine...
+[2018.09.29-16.42.55:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.29-16.42.55:230][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.29-16.42.55:230][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-16.42.55:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.29-16.42.55:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-16.42.55:906][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.29-16.42.55:941][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.29-16.42.55:974][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.29-16.42.56:078][  0]LogInit: FAudioDevice initialized.
+[2018.09.29-16.42.56:078][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.29-16.42.56:264][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.29-16.42.56:289][  0]LogInit: Texture streaming: Enabled
+[2018.09.29-16.42.56:481][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.29-16.42.56:573][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={98A4EA48-4400-0DEC-905F-AFAA412FFA60}
+[2018.09.29-16.42.56:676][  0]LogInit: Transaction tracking system initialized
+[2018.09.29-16.42.56:775][  0]BlueprintLog: New page: Editor Load
+[2018.09.29-16.42.57:005][  0]LocalizationService: Localization service is disabled
+[2018.09.29-16.42.59:393][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.29-16.42.59:394][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.29-16.42.59:394][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.29-16.42.59:394][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.29-16.42.59:394][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.29-16.42.59:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.29-16.42.59:395][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.29-16.43.00:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/' took 0.02s
+[2018.09.29-16.43.00:415][  0]SourceControl: Source control is disabled
+[2018.09.29-16.43.00:628][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-16.43.00:631][  0]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.29-16.43.39:428][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.09.29-16.43.39:429][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-16.43.39:432][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-16.43.43:175][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.09.29-16.43.43:176][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-16.43.43:179][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.29-16.43.43:304][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.29-16.43.43:348][  0]LightingResults: New page: Lighting Build
+[2018.09.29-16.43.43:359][  0]MapCheck: New page: Map Check
+[2018.09.29-16.43.43:359][  0]LightingResults: New page: Lighting Build
+[2018.09.29-16.43.44:471][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.29-16.43.44:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.29-16.43.44:579][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.29-16.43.44:889][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 309.794ms to complete.
+[2018.09.29-16.43.44:890][  0]LogFileHelpers: Loading map 'Template_Default' took 1.586
+[2018.09.29-16.43.45:291][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.43.45:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.43.45:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.43.45:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.29-16.43.45:354][  0]LogCollectionManager: Loaded 0 collections in 0.005555 seconds
+[2018.09.29-16.43.45:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Collections/' took 0.01s
+[2018.09.29-16.43.45:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Developers/gskhagta/Collections/' took 0.01s
+[2018.09.29-16.43.45:418][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Collections/' took 0.01s
+[2018.09.29-16.43.45:418][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.29-16.43.45:439][  0]LogContentBrowser: Native class hierarchy populated in 0.0198 seconds. Added 2572 classes and 603 folders.
+[2018.09.29-16.43.45:456][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.29-16.43.47:341][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.09.29-16.43.47:371][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.09.29-16.43.47:620][  0]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.29-16.43.47:707][  0]LogSlate: Took 0.070612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.29-16.43.47:955][  0]LogRenderer: Reallocating scene render targets to support 760x376 Format 9 NumSamples 1 (Frame:1).
+[2018.09.29-16.43.48:273][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.09.29-16.43.48:273][  0]LogLoad: (Engine Initialization) Total time: 116.26 seconds
+[2018.09.29-16.43.48:273][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.29-16.43.48:331][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.09.29-16.43.48:372][  0]LogSlate: Took 0.032620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-16.43.48:441][  2]LogAssetRegistry: Asset discovery search completed in 79.7323 seconds
+[2018.09.29-16.43.48:445][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.29-16.43.48:445][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.09.29-16.43.49:372][ 18]LogSlate: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.29-16.43.54:573][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.29-16.43.54:780][339]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_Bumper.M_Bumper
+[2018.09.29-16.43.54:785][339]LogMaterial: Display: Missing cached shader map for material M_Bumper, compiling. 
+[2018.09.29-16.43.55:645][339]LogMaterial: Display: Missing cached shader map for material M_Bumper, compiling. 
+[2018.09.29-16.43.55:680][339]LogMaterial: Display: Missing cached shader map for material M_Bumper, compiling. 
+[2018.09.29-16.43.55:716][339]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-16.43.55:716][339]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-16.43.55:716][339]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-16.43.55:748][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.09.29-16.43.55:770][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.29-16.43.55:782][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2018.09.29-16.43.56:071][339]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/BallSphere.BallSphere
+[2018.09.29-16.43.57:146][339]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2018.09.29-16.43.58:122][339]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-16.43.58:320][339]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-16.43.58:968][339]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-16.43.58:968][339]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-16.43.59:342][339]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-16.43.59:522][339]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-16.43.59:522][339]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0034 seconds. Added 116 classes and 0 folders.
+[2018.09.29-16.44.02:217][339]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-16.44.02:217][339]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-16.44.02:217][339]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-16.44.02:217][339]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-16.44.02:217][339]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-16.44.02:396][339]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-16.44.02:718][339]LogLinker: Warning: Can't find file '/Game/Assets/SM_PopBumperMechanism'
+[2018.09.29-16.44.02:718][339]LogLinker: Warning: Can't find file for asset '/Game/Assets/SM_PopBumperMechanism' while loading ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset.
+[2018.09.29-16.44.02:719][339]LoadErrors: Error: /Game/Blueprints/BP_Bumper : Can't find file for asset. /Game/Assets/SM_PopBumperMechanism
+[2018.09.29-16.44.02:721][339]LogLinker: Warning: Can't find file '/Game/Assets/SM_PopBumperMechanism'
+[2018.09.29-16.44.02:722][339]LogLinker: Warning: Can't find file for asset '/Game/Assets/SM_PopBumperMechanism' while loading ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Bumper.uasset.
+[2018.09.29-16.44.02:725][339]LogLinker: Warning: Can't find file '/Game/Assets/SM_PopBumperMechanism'
+[2018.09.29-16.44.02:725][339]LogLinker: Warning: Can't find file for asset '/Game/Assets/SM_PopBumperMechanism' while loading NULL.
+[2018.09.29-16.44.02:726][339]LogLinker: Warning: Can't find file '/Game/Assets/SM_PopBumperMechanism'
+[2018.09.29-16.44.02:726][339]LogLinker: Warning: Can't find file for asset '/Game/Assets/SM_PopBumperMechanism' while loading NULL.
+[2018.09.29-16.44.02:733][339]LogLinker: Warning: Can't find file '/Game/Assets/SM_PopBumperMechanism'
+[2018.09.29-16.44.02:733][339]LoadErrors: Failed to load /Game/Assets/SM_PopBumperMechanism.SM_PopBumperMechanism Referenced by BumperMechanism_GEN_VARIABLE
+[2018.09.29-16.44.02:733][339]LogLinker: Warning: Can't find file for asset '/Game/Assets/SM_PopBumperMechanism' while loading NULL.
+[2018.09.29-16.44.02:800][339]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2018.09.29-16.44.03:726][339]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-16.44.03:726][339]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-16.44.03:726][339]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-16.44.03:923][339]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/SM_PopBumperBase.SM_PopBumperBase
+[2018.09.29-16.44.04:699][339]LogAssetEditorManager: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2018.09.29-16.44.04:721][339]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2018.09.29-16.44.05:072][339]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-16.44.05:072][339]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-16.44.05:406][339]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-16.44.05:544][339]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-16.44.05:575][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2018.09.29-16.44.05:591][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.09.29-16.44.05:611][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.09.29-16.44.05:625][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2018.09.29-16.44.05:676][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.09.29-16.44.05:702][339]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.29-16.44.06:556][339]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.29-16.44.06:659][339]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.29-16.44.06:915][339]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.29-16.44.07:374][339]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.29-16.44.07:544][339]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.29-16.44.07:782][339]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.29-16.44.08:054][339]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.29-16.44.08:488][339]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.29-16.44.08:504][339]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-16.44.08:521][339]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-16.44.08:946][339]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-16.44.08:980][339]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-16.44.09:303][339]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-16.44.09:388][339]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-16.44.09:694][339]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-16.44.09:830][339]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-16.44.09:915][339]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-16.44.10:101][339]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-16.44.10:407][339]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-16.44.10:458][339]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.29-16.44.10:679][339]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.29-16.44.10:798][339]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.29-16.44.11:053][339]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.29-16.44.11:206][339]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.29-16.44.11:426][339]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.29-16.44.11:562][339]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.29-16.44.11:885][339]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.29-16.44.11:972][339]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-16.44.11:989][339]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-16.44.12:226][339]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-16.44.12:328][339]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-16.44.12:515][339]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-16.44.12:685][339]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-16.44.12:753][339]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-16.44.12:940][339]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-16.44.13:195][339]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-16.44.13:280][339]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-16.44.13:450][339]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-16.44.13:671][339]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-16.44.13:858][339]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-16.44.13:993][339]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-16.44.14:282][339]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-16.44.14:572][339]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-16.44.14:776][339]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-16.44.14:861][339]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-16.44.15:099][339]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-16.44.15:270][339]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-16.44.15:422][339]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-16.44.15:626][339]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-16.44.15:796][339]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-16.44.15:897][339]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-16.44.16:152][339]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-16.44.16:237][339]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-16.44.16:288][339]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-16.44.16:611][339]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-16.44.16:748][339]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-16.44.17:462][339]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-16.44.17:496][339]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-16.44.17:954][339]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-16.44.18:703][339]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-16.44.18:737][339]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-16.44.18:940][339]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-16.44.19:672][339]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-16.44.19:825][339]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-16.44.19:893][339]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-16.44.20:607][339]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-16.44.20:879][339]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.29-16.44.21:083][339]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.29-16.44.21:763][339]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.29-16.44.21:815][339]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.29-16.44.22:086][339]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.29-16.44.22:819][339]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.29-16.44.24:383][339]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.29-16.44.30:847][339]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.29-16.44.32:429][339]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-16.44.32:600][339]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-16.44.33:177][339]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-16.44.33:398][339]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-16.44.34:769][339]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-16.44.34:820][339]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-16.44.35:108][339]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-16.44.42:317][339]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-16.44.42:929][339]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-16.44.43:303][339]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-16.44.43:677][339]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-16.44.44:237][339]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-16.44.44:934][339]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-16.44.45:002][339]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-16.44.45:070][339]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-16.44.46:197][339]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-16.44.46:402][339]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-16.44.47:031][339]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-16.44.47:320][339]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-16.44.47:983][339]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-16.44.48:358][339]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-16.44.48:732][339]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-16.44.48:817][339]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-16.44.49:871][339]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-16.44.49:956][339]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-16.44.50:279][339]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-16.44.50:619][339]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-16.45.22:157][339]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-16.45.50:861][339]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2018.09.29-16.45.51:163][339]LogSlate: Took 0.122792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: Texture samplers: 4/16
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.09.29-16.45.51:899][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-16.45.51:935][340]LogSlate: Took 0.000599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: Base pass shader: 134 instructions
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: Texture samplers: 5/16
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2018.09.29-16.45.52:026][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.29-16.46.04:131][749]LogRenderer: Reallocating scene render targets to support 1016x612 Format 9 NumSamples 1 (Frame:79).
+[2018.09.29-16.46.15:806][750]LogSlate: Window 'BallSphere' being destroyed
+[2018.09.29-16.46.19:176][918]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-16.46.34:556][409]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-16.46.52:955][395]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-16.46.56:814][599]LogMaterialEditor: Applying material WorldGridMaterial
+[2018.09.29-16.46.59:649][599]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.09.29-16.47.00:260][599]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.09.29-16.48.22:406][599]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.09.29-16.48.22:407][599]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.09.29-16.48.22:408][599]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.09.29-16.48.22:409][599]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.29-16.48.22:410][599]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.29-16.48.22:411][599]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.29-16.48.22:412][599]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.29-16.48.22:413][599]LogWindows: Windows GetLastError: The operation completed successfully. (0)

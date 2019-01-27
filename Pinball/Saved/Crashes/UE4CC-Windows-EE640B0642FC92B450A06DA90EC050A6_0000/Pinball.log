@@ -1,0 +1,956 @@
+﻿Log file open, 10/05/18 21:12:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272875
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.763s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.05-15.42.14:714][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-15.42.14:714][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.05-15.42.14:789][  0]LogHAL: Display: Platform has ~ 8 GB [8508420096 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.05-15.42.14:789][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.05-15.42.14:789][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.05-15.42.14:789][  0]LogInit: Computer: DESKTOP-71863RE
+[2018.10.05-15.42.14:789][  0]LogInit: User: gskhagta
+[2018.10.05-15.42.14:789][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.05-15.42.14:789][  0]LogInit: High frequency timer resolution =2.143480 MHz
+[2018.10.05-15.42.14:790][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.05-15.42.14:790][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.05-15.42.14:790][  0]LogMemory: Process Physical Memory: 100.35 MB used, 100.35 MB peak
+[2018.10.05-15.42.14:790][  0]LogMemory: Process Virtual Memory: 84.25 MB used, 84.25 MB peak
+[2018.10.05-15.42.14:790][  0]LogMemory: Physical Memory: 5355.86 MB used,  2758.40 MB free, 8114.26 MB total
+[2018.10.05-15.42.14:790][  0]LogMemory: Virtual Memory: 4621.12 MB used,  2758.40 MB free, 134217728.00 MB total
+[2018.10.05-15.42.14:825][  0]LogInit: Using OS detected language (en-US).
+[2018.10.05-15.42.14:825][  0]LogInit: Using OS detected locale (en-IN).
+[2018.10.05-15.42.14:827][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.05-15.42.15:354][  0]LogStreaming: Display: Took  0.529s to InitEngineTextLocalization.
+[2018.10.05-15.42.15:355][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.05-15.42.15:412][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.05-15.42.15:412][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.05-15.42.16:002][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-15.42.16:002][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.05-15.42.16:103][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940M' (Feature Level 11_0)
+[2018.10.05-15.42.16:103][  0]LogD3D11RHI:       2020/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.05-15.42.16:114][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2018.10.05-15.42.16:114][  0]LogD3D11RHI:       128/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.05-15.42.16:118][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.05-15.42.16:118][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.05-15.42.16:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.05-15.42.16:170][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.05-15.42.16:170][  0]LogD3D11RHI:     GPU DeviceId: 0x1347 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.05-15.42.16:170][  0]LogWindows: EnumDisplayDevices:
+[2018.10.05-15.42.16:170][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2018.10.05-15.42.16:171][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.05-15.42.16:172][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2018.10.05-15.42.16:173][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.05-15.42.16:173][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940M
+[2018.10.05-15.42.16:173][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.05-15.42.16:173][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.05-15.42.16:173][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2018.10.05-15.42.16:237][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.05-15.42.16:254][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.05-15.42.16:257][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Intermediate/Shaders/WorkingDirectory/17740/).
+[2018.10.05-15.42.16:258][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/g s khagta/AppData/Local/Temp/UnrealShaderWorkingDir/70359D214D076F3B5CFC98AFA814F47C/'.
+[2018.10.05-15.42.17:115][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.05-15.42.17:141][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.05-15.42.17:165][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.05-15.42.17:188][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.05-15.42.17:213][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.05-15.42.17:243][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.05-15.42.17:266][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.05-15.42.17:288][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.05-15.42.17:300][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-15.42.17:438][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.05-15.42.17:517][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-15.42.17:517][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-15.42.17:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-15.42.17:553][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-15.42.17:571][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.05-15.42.17:591][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.05-15.42.17:612][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.05-15.42.17:633][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.05-15.42.17:648][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.05-15.42.17:648][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.05-15.42.17:789][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.05-15.42.17:789][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.05-15.42.17:789][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.05-15.42.19:007][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.05-15.42.19:163][  0]LogDerivedDataCache: Loaded boot cache 0.16s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-15.42.19:164][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.05-15.42.19:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.05-15.42.19:165][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.05-15.42.19:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.05-15.42.19:165][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.05-15.42.19:184][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.05-15.42.19:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/g s khagta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.05-15.42.19:199][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.05-15.42.19:199][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.05-15.42.19:228][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.05-15.42.19:230][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.05-15.42.19:276][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.05-15.42.22:291][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2018.10.05-15.42.23:092][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-15.42.23:804][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.05-15.42.23:814][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.05-15.42.23:814][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.05-15.42.23:814][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.05-15.42.23:814][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.05-15.42.23:950][  0]LogNetVersion: Pinball 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 450249559)
+[2018.10.05-15.42.33:514][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 1.047309 seconds
+[2018.10.05-15.42.33:523][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.05-15.42.33:523][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.05-15.42.33:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.05-15.43.26:294][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.05-15.43.26:310][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.05-15.43.27:767][  0]SourceControl: Source control is disabled
+[2018.10.05-15.43.27:767][  0]SourceControl: Source control is disabled
+[2018.10.05-15.43.27:772][  0]SourceControl: Source control is disabled
+[2018.10.05-15.43.27:775][  0]SourceControl: Source control is disabled
+[2018.10.05-15.43.29:005][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.05-15.43.29:241][  0]LogOcInput: OculusInput pre-init called
+[2018.10.05-15.43.29:421][  0]LogEngine: Initializing Engine...
+[2018.10.05-15.43.29:422][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-15.43.29:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-15.43.29:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-15.43.29:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.10.05-15.43.29:879][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-15.43.34:535][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.05-15.43.34:581][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.05-15.43.34:603][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-15.43.34:958][  0]LogInit: FAudioDevice initialized.
+[2018.10.05-15.43.34:959][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.05-15.43.40:161][  0]LogDerivedDataCache: Saved boot cache 5.20s 71MB C:/Users/g s khagta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-15.43.40:204][  0]LogInit: Texture streaming: Enabled
+[2018.10.05-15.43.40:243][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.05-15.43.40:275][  0]LogInit: Transaction tracking system initialized
+[2018.10.05-15.43.40:333][  0]BlueprintLog: New page: Editor Load
+[2018.10.05-15.43.41:140][  0]LocalizationService: Localization service is disabled
+[2018.10.05-15.43.47:660][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.05-15.43.47:660][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.05-15.43.47:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/' took 0.04s
+[2018.10.05-15.43.47:704][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.05-15.43.47:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-15.43.47:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-15.43.47:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.10.05-15.43.47:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-15.43.50:382][  0]SourceControl: Source control is disabled
+[2018.10.05-15.43.50:383][  0]Cmd: MAP LOAD FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.05-15.43.50:383][  0]LightingResults: New page: Lighting Build
+[2018.10.05-15.43.50:390][  0]MapCheck: New page: Map Check
+[2018.10.05-15.43.50:390][  0]LightingResults: New page: Lighting Build
+[2018.10.05-15.44.33:893][  0]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-15.44.34:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.05-15.44.34:887][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.05-15.44.35:271][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 383.498ms to complete.
+[2018.10.05-15.44.35:272][  0]LogFileHelpers: Loading map 'Pinball' took 44.888
+[2018.10.05-15.44.49:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.44.50:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.44.50:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.44.50:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.44.51:146][  0]LogCollectionManager: Loaded 0 collections in 0.008047 seconds
+[2018.10.05-15.44.53:062][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Collections/' took 0.01s
+[2018.10.05-15.44.53:062][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Developers/gskhagta/Collections/' took 0.01s
+[2018.10.05-15.44.53:062][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Collections/' took 0.01s
+[2018.10.05-15.44.53:062][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.05-15.44.53:102][  0]LogContentBrowser: Native class hierarchy populated in 0.0299 seconds. Added 2572 classes and 603 folders.
+[2018.10.05-15.44.53:500][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.10.05-15.45.09:158][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.05-15.45.09:426][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.10.05-15.45.13:294][  0]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.05-15.45.13:302][  0]LogSlate: Took 0.001699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.05-15.45.13:414][  0]LogSlate: Took 0.033847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.05-15.45.14:539][  0]LogRenderer: Reallocating scene render targets to support 740x376 Format 9 NumSamples 1 (Frame:1).
+[2018.10.05-15.45.16:582][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.05-15.45.16:582][  0]LogLoad: (Engine Initialization) Total time: 187.68 seconds
+[2018.10.05-15.45.16:582][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.05-15.45.16:602][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-15.45.16:710][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.05-15.45.17:287][  0]LogSlate: Took 0.108425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-15.45.18:363][  3]LogAssetRegistry: Asset discovery search completed in 176.0949 seconds
+[2018.10.05-15.45.18:367][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.05-15.45.18:367][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2018.10.05-15.45.18:410][  3]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-15.45.19:411][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-15.45.37:612][869]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot2)
+[2018.10.05-15.47.07:561][100]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot)
+[2018.10.05-15.47.21:360][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-15.47.21:609][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.05-15.47.23:886][788]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball9AAE49A74BA927EB35DA8FB0518700C2.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball.umap'
+[2018.10.05-15.47.24:043][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/Pinball_BuiltData" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset" SILENT=true
+[2018.10.05-15.47.24:527][788]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltData7ED6B75F427610A6896FC187EBD81738.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Scenes/Pinball_BuiltData.uasset'
+[2018.10.05-15.48.49:546][169]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-15.48.49:594][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-15.48.49:836][169]PIE: New page: PIE session: Pinball (06-Oct-2018 2:48:49 am)
+[2018.10.05-15.48.49:836][169]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-15.48.50:203][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366129s)
+[2018.10.05-15.48.50:205][169]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-15.48.50:213][169]LogPlayLevel: PIE: World Init took: (0.009430s)
+[2018.10.05-15.48.50:213][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.376261s)
+[2018.10.05-15.48.50:307][169]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-15.48.50:334][169]LogInit: FAudioDevice initialized.
+[2018.10.05-15.48.50:385][169]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-15.48.50:419][169]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.18.50
+[2018.10.05-15.48.50:485][169]LogWorld: Bringing up level for play took: 0.068733
+[2018.10.05-15.48.50:759][169]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0058 seconds. Added 10 classes and 0 folders.
+[2018.10.05-15.48.50:898][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.48.51:027][169]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.72
+[2018.10.05-15.48.51:079][169]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-15.48.56:211][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.01:598][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.01:707][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-15.49.01:758][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.01:775][703]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.05-15.49.02:823][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-15.49.07:429][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-15.49.07:429][751]PIE: New page: PIE session: Pinball (06-Oct-2018 2:49:07 am)
+[2018.10.05-15.49.07:429][751]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-15.49.07:446][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016420s)
+[2018.10.05-15.49.07:447][751]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-15.49.07:447][751]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.10.05-15.49.07:447][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.017594s)
+[2018.10.05-15.49.07:491][751]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-15.49.07:514][751]LogInit: FAudioDevice initialized.
+[2018.10.05-15.49.07:549][751]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-15.49.07:554][751]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.19.07
+[2018.10.05-15.49.07:554][751]LogWorld: Bringing up level for play took: 0.004387
+[2018.10.05-15.49.07:568][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.07:569][751]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.738
+[2018.10.05-15.49.07:571][751]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-15.49.10:266][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.20:126][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.20:165][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-15.49.20:195][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.49.20:227][492]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.10.05-15.50.30:036][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-15.50.30:070][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-15.50.30:070][ 89]PIE: New page: PIE session: Pinball (06-Oct-2018 2:50:30 am)
+[2018.10.05-15.50.30:071][ 89]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-15.50.30:089][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018072s)
+[2018.10.05-15.50.30:090][ 89]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-15.50.30:090][ 89]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2018.10.05-15.50.30:090][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019408s)
+[2018.10.05-15.50.30:128][ 89]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-15.50.30:152][ 89]LogInit: FAudioDevice initialized.
+[2018.10.05-15.50.30:183][ 89]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-15.50.30:187][ 89]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.20.30
+[2018.10.05-15.50.30:188][ 89]LogWorld: Bringing up level for play took: 0.003997
+[2018.10.05-15.50.30:203][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.30:204][ 89]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.104
+[2018.10.05-15.50.30:252][ 89]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-15.50.31:187][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.34:138][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.34:181][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-15.50.34:209][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.34:241][324]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.10.05-15.50.35:264][367]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-15.50.35:301][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-15.50.35:301][367]PIE: New page: PIE session: Pinball (06-Oct-2018 2:50:35 am)
+[2018.10.05-15.50.35:301][367]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-15.50.35:320][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018588s)
+[2018.10.05-15.50.35:321][367]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-15.50.35:321][367]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.10.05-15.50.35:321][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019771s)
+[2018.10.05-15.50.35:351][367]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-15.50.35:373][367]LogInit: FAudioDevice initialized.
+[2018.10.05-15.50.35:407][367]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-15.50.35:411][367]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.20.35
+[2018.10.05-15.50.35:411][367]LogWorld: Bringing up level for play took: 0.003401
+[2018.10.05-15.50.35:425][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.35:426][367]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 1.119
+[2018.10.05-15.50.35:475][367]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-15.50.36:800][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.54:943][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.54:985][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-15.50.55:017][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-15.50.55:051][521]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.10.05-15.50.55:131][522]Cmd: SELECT NONE
+[2018.10.05-16.00.56:955][733]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot)
+[2018.10.05-16.01.03:471][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.01.15:595][590]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot2)
+[2018.10.05-16.01.17:873][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.01.37:040][618]Cmd: SELECT NONE
+[2018.10.05-16.01.44:037][968]LogEditorViewport: Clicking on Actor (LMB): Flippers_C (Flippers3)
+[2018.10.05-16.01.51:894][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.02.00:566][435]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Bell_Impact01...
+[2018.10.05-16.02.00:566][435]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.00:729][435]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 99514 while cooking SoundWave /Game/Assets/Sounds/Bell_Impact01.Bell_Impact01.
+[2018.10.05-16.02.23:404][564]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BallLaunch...
+[2018.10.05-16.02.23:406][564]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.23:528][564]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 440148 while cooking SoundWave /Game/Assets/Sounds/Pinball_BallLaunch.Pinball_BallLaunch.
+[2018.10.05-16.02.28:294][791]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BallRelease...
+[2018.10.05-16.02.28:294][791]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.28:333][791]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 169180 while cooking SoundWave /Game/Assets/Sounds/Pinball_BallRelease.Pinball_BallRelease.
+[2018.10.05-16.02.31:925][965]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_Bell01...
+[2018.10.05-16.02.31:926][965]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.31:969][965]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 131744 while cooking SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01.
+[2018.10.05-16.02.33:854][ 59]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BumperImpact01...
+[2018.10.05-16.02.33:854][ 59]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.33:866][ 59]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 49794 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01.
+[2018.10.05-16.02.35:242][128]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BumperImpact02...
+[2018.10.05-16.02.35:242][128]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.35:255][128]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29216 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02.
+[2018.10.05-16.02.37:968][260]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BumperImpact03...
+[2018.10.05-16.02.37:968][260]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.37:978][260]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 17620 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03.
+[2018.10.05-16.02.38:863][303]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BumperImpact04...
+[2018.10.05-16.02.38:863][303]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.38:879][303]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 34740 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04.
+[2018.10.05-16.02.40:038][359]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_BumperImpact05...
+[2018.10.05-16.02.40:039][359]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.40:058][359]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 55374 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05.
+[2018.10.05-16.02.42:570][483]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_Error01...
+[2018.10.05-16.02.42:571][483]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.42:601][483]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 165768 while cooking SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01.
+[2018.10.05-16.02.48:316][768]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_FlipperLeft...
+[2018.10.05-16.02.48:317][768]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.48:351][768]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117596 while cooking SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft.
+[2018.10.05-16.02.49:749][836]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_FlipperRight...
+[2018.10.05-16.02.49:750][836]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.02.49:782][836]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117596 while cooking SoundWave /Game/Assets/Sounds/Pinball_FlipperRight.Pinball_FlipperRight.
+[2018.10.05-16.03.00:029][343]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_Popup01...
+[2018.10.05-16.03.00:030][343]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.03.00:053][343]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 36622 while cooking SoundWave /Game/Assets/Sounds/Pinball_Popup01.Pinball_Popup01.
+[2018.10.05-16.03.03:762][522]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_Popup03...
+[2018.10.05-16.03.03:762][522]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.03.03:774][522]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28156 while cooking SoundWave /Game/Assets/Sounds/Pinball_Popup03.Pinball_Popup03.
+[2018.10.05-16.03.04:697][569]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Pinball_Reset01...
+[2018.10.05-16.03.04:697][569]LogTemp: Couldn't find amount to resample to.
+[2018.10.05-16.03.04:728][569]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 162840 while cooking SoundWave /Game/Assets/Sounds/Pinball_Reset01.Pinball_Reset01.
+[2018.10.05-16.03.38:965][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Flippers.Flippers
+[2018.10.05-16.03.41:282][581]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 116 classes and 0 folders.
+[2018.10.05-16.03.44:883][581]LogSlate: Took 0.017281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.05-16.03.45:684][582]LogSlate: Took 0.043632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.05-16.05.13:924][641]BlueprintLog: New page: Compile Flippers
+[2018.10.05-16.05.15:814][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.10.05-16.05.16:041][674]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers5CEBBCB54BB76F3BE93EF69595526BFB.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.10.05-16.05.17:765][761]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.05.17:807][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.05.17:808][761]PIE: New page: PIE session: Pinball (06-Oct-2018 3:05:17 am)
+[2018.10.05-16.05.17:808][761]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.05.17:825][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016946s)
+[2018.10.05-16.05.17:826][761]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.05.17:826][761]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.10.05-16.05.17:826][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018138s)
+[2018.10.05-16.05.17:912][761]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.05.17:941][761]LogInit: FAudioDevice initialized.
+[2018.10.05-16.05.17:974][761]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.05.17:978][761]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.35.17
+[2018.10.05-16.05.17:979][761]LogWorld: Bringing up level for play took: 0.003706
+[2018.10.05-16.05.17:993][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.05.17:995][761]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.313
+[2018.10.05-16.05.18:223][761]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.05.19:650][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.05.35:810][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.05.35:857][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.05.35:912][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.05.35:930][811]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.05-16.06.25:603][223]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assets/Sounds/Pinball_FlipperLeft_Cue01.Pinball_FlipperLeft_Cue01
+[2018.10.05-16.06.32:661][502]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperLeft_Cue016933B38242EF924E069F9E8B756A57C9.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperLeft_Cue01.uasset'
+[2018.10.05-16.06.45:992][900]LogSlate: Window 'Pinball_FlipperLeft_Cue01' being destroyed
+[2018.10.05-16.07.39:746][639]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Auto15855B05D4401A4909E1FE392AF42BD06.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Scenes/Pinball_Auto1.umap'
+[2018.10.05-16.07.39:774][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/Pinball' took 0.388
+[2018.10.05-16.07.39:774][639]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.388
+[2018.10.05-16.07.39:779][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Flippers] ([1] browsable assets)...
+[2018.10.05-16.07.39:895][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Flippers.Flippers]
+[2018.10.05-16.07.39:895][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Flippers]
+[2018.10.05-16.07.40:098][639]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers_Auto1627578974999A8982919FFAB24231C6D.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/Flippers_Auto1.uasset'
+[2018.10.05-16.07.40:130][639]LogFileHelpers: Auto-saving content packages took 0.355
+[2018.10.05-16.07.41:678][726]BlueprintLog: New page: Compile Flippers
+[2018.10.05-16.07.42:558][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.10.05-16.07.42:751][758]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers46A349F14F2297894ED693AEAD03E352.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.10.05-16.07.45:310][898]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.07.45:355][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.07.45:355][898]PIE: New page: PIE session: Pinball (06-Oct-2018 3:07:45 am)
+[2018.10.05-16.07.45:355][898]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.07.45:372][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017108s)
+[2018.10.05-16.07.45:373][898]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.07.45:374][898]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2018.10.05-16.07.45:374][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018996s)
+[2018.10.05-16.07.45:417][898]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.07.45:440][898]LogInit: FAudioDevice initialized.
+[2018.10.05-16.07.45:475][898]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.07.45:478][898]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.37.45
+[2018.10.05-16.07.45:479][898]LogWorld: Bringing up level for play took: 0.003216
+[2018.10.05-16.07.45:494][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.07.45:495][898]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.813
+[2018.10.05-16.07.45:545][898]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.07.46:553][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.08.00:005][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.08.00:064][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.08.00:116][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.08.00:137][758]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.10.05-16.08.01:766][835]LogEditorViewport: Clicking on Actor (LMB): Flippers_C (Flippers2)
+[2018.10.05-16.08.35:269][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.10.54:465][376]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assets/Sounds/Pinball_FlipperRight_Cue01.Pinball_FlipperRight_Cue01
+[2018.10.05-16.10.58:542][600]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_FlipperRight_Cue011B26A33F4B9CC5CB01FCEC8A662B8ED6.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_FlipperRight_Cue01.uasset'
+[2018.10.05-16.11.11:078][321]BlueprintLog: New page: Compile Flippers
+[2018.10.05-16.11.17:511][645]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.11.17:555][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.11.17:556][645]PIE: New page: PIE session: Pinball (06-Oct-2018 3:11:17 am)
+[2018.10.05-16.11.17:556][645]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.11.17:572][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016510s)
+[2018.10.05-16.11.17:573][645]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.11.17:574][645]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2018.10.05-16.11.17:574][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018259s)
+[2018.10.05-16.11.17:619][645]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.11.17:642][645]LogInit: FAudioDevice initialized.
+[2018.10.05-16.11.17:680][645]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.11.17:685][645]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.41.17
+[2018.10.05-16.11.17:685][645]LogWorld: Bringing up level for play took: 0.004628
+[2018.10.05-16.11.17:699][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.11.17:701][645]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.607
+[2018.10.05-16.11.17:856][645]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.11.18:881][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.11.46:753][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.11.46:799][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.11.46:840][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.11.46:862][370]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.05-16.11.48:828][463]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot2)
+[2018.10.05-16.11.51:363][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.11.56:264][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Flippers" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset" SILENT=true
+[2018.10.05-16.11.56:439][736]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Flippers2950013C48E05B02AC587B8F8506982C.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/Flippers.uasset'
+[2018.10.05-16.12.20:322][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SlingShot.BP_SlingShot
+[2018.10.05-16.12.20:809][240]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ball
+	BP_SlingShot_C /Engine/Transient.World_11:PersistentLevel.BP_SlingShot_C_0
+	Function /Game/Blueprints/BP_SlingShot.BP_SlingShot_C:ExecuteUbergraph_BP_SlingShot:012A
+[2018.10.05-16.12.20:809][240]LogScript: Warning: Accessed None
+	BP_SlingShot_C /Engine/Transient.World_11:PersistentLevel.BP_SlingShot_C_0
+	Function /Game/Blueprints/BP_SlingShot.BP_SlingShot_C:ExecuteUbergraph_BP_SlingShot:013F
+[2018.10.05-16.12.20:809][240]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ball
+	BP_SlingShot_C /Engine/Transient.World_11:PersistentLevel.BP_SlingShot_C_0
+	Function /Game/Blueprints/BP_SlingShot.BP_SlingShot_C:ExecuteUbergraph_BP_SlingShot:012A
+[2018.10.05-16.12.20:809][240]LogScript: Warning: Accessed None
+	BP_SlingShot_C /Engine/Transient.World_11:PersistentLevel.BP_SlingShot_C_0
+	Function /Game/Blueprints/BP_SlingShot.BP_SlingShot_C:ExecuteUbergraph_BP_SlingShot:013F
+[2018.10.05-16.13.09:271][672]BlueprintLog: New page: Compile BP_SlingShot
+[2018.10.05-16.13.14:468][939]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.13.14:507][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.13.14:507][939]PIE: New page: PIE session: Pinball (06-Oct-2018 3:13:14 am)
+[2018.10.05-16.13.14:507][939]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.13.14:525][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017654s)
+[2018.10.05-16.13.14:526][939]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.13.14:526][939]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.10.05-16.13.14:526][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018916s)
+[2018.10.05-16.13.14:576][939]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.13.14:599][939]LogInit: FAudioDevice initialized.
+[2018.10.05-16.13.14:632][939]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.13.14:636][939]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.43.14
+[2018.10.05-16.13.14:636][939]LogWorld: Bringing up level for play took: 0.003410
+[2018.10.05-16.13.14:651][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.13.14:653][939]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.346
+[2018.10.05-16.13.14:701][939]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.13.15:505][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.00:064][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.00:112][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.14.00:166][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.00:183][634]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.10.05-16.14.12:706][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.14.14:456][334]LogRenderer: Reallocating scene render targets to support 800x464 Format 9 NumSamples 1 (Frame:1).
+[2018.10.05-16.14.48:580][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.14.48:697][241]BlueprintLog: New page: Compile BP_SlingShot
+[2018.10.05-16.14.51:435][357]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.14.51:473][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.14.51:473][357]PIE: New page: PIE session: Pinball (06-Oct-2018 3:14:51 am)
+[2018.10.05-16.14.51:473][357]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.14.51:493][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020402s)
+[2018.10.05-16.14.51:494][357]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.14.51:495][357]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.10.05-16.14.51:495][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.021717s)
+[2018.10.05-16.14.51:539][357]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.14.51:563][357]LogInit: FAudioDevice initialized.
+[2018.10.05-16.14.51:594][357]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.14.51:598][357]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.44.51
+[2018.10.05-16.14.51:599][357]LogWorld: Bringing up level for play took: 0.003567
+[2018.10.05-16.14.51:614][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.51:615][357]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.692
+[2018.10.05-16.14.51:668][357]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.14.52:573][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.57:944][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.57:992][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.14.58:033][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.14.58:053][723]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.05-16.16.38:254][738]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.16.38:324][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.16.38:325][738]PIE: New page: PIE session: Pinball (06-Oct-2018 3:16:38 am)
+[2018.10.05-16.16.38:325][738]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.16.38:353][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028397s)
+[2018.10.05-16.16.38:355][738]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.16.38:356][738]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2018.10.05-16.16.38:356][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.030882s)
+[2018.10.05-16.16.38:426][738]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.16.38:482][738]LogInit: FAudioDevice initialized.
+[2018.10.05-16.16.38:525][738]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.16.38:533][738]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.46.38
+[2018.10.05-16.16.38:534][738]LogWorld: Bringing up level for play took: 0.007520
+[2018.10.05-16.16.38:551][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.16.38:555][738]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.247
+[2018.10.05-16.16.38:557][738]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.16.39:391][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.16.59:774][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.17.01:167][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.17.01:216][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.17.01:266][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.17.01:291][998]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.05-16.17.12:599][553]LogEditorViewport: Clicking on Actor (LMB): BP_SlingShot_C (BP_SlingShot)
+[2018.10.05-16.17.14:096][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-16.17.15:934][685]Cmd: SELECT NONE
+[2018.10.05-16.17.28:865][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.17.29:142][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_DropTarget.BP_DropTarget
+[2018.10.05-16.18.28:130][229]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Assets/Sounds/Pinball_Bell01_Cue01.Pinball_Bell01_Cue01
+[2018.10.05-16.18.35:229][524]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/Pinball_Bell01_Cue01B1B319D24F1A68CF875A36B945FA3602.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Assets/Sounds/Pinball_Bell01_Cue01.uasset'
+[2018.10.05-16.19.00:574][782]BlueprintLog: New page: Compile BP_DropTarget
+[2018.10.05-16.19.00:860][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:860][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:860][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4610.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4609.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4608.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:869][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4607.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:870][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4606.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:891][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:891][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:891][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:891][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:891][782]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:899][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4620.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:899][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4619.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:899][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4618.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:899][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4617.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.00:899][782]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/Pinball.Pinball:PersistentLevel.DESTROYED_BP_DropTarget_C_CHILDACTOR_4616.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.10.05-16.19.01:600][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DropTarget" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset" SILENT=true
+[2018.10.05-16.19.01:849][807]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_DropTarget7DEDCB9A447F53F5071E6BBC9079E441.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_DropTarget.uasset'
+[2018.10.05-16.19.04:439][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SlingShot" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_SlingShot.uasset" SILENT=true
+[2018.10.05-16.19.04:595][939]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_SlingShot00A7D5D04CC595B4D5C30CB624F92338.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_SlingShot.uasset'
+[2018.10.05-16.19.06:067][  3]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.19.06:113][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.19.06:114][  3]PIE: New page: PIE session: Pinball (06-Oct-2018 3:19:06 am)
+[2018.10.05-16.19.06:114][  3]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.19.06:132][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018252s)
+[2018.10.05-16.19.06:133][  3]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.19.06:134][  3]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2018.10.05-16.19.06:134][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019531s)
+[2018.10.05-16.19.06:182][  3]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.19.06:208][  3]LogInit: FAudioDevice initialized.
+[2018.10.05-16.19.06:246][  3]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.19.06:248][  3]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.49.06
+[2018.10.05-16.19.06:248][  3]LogWorld: Bringing up level for play took: 0.003199
+[2018.10.05-16.19.06:263][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.06:265][  3]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.042
+[2018.10.05-16.19.06:469][  3]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.19.07:392][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.16:955][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.17:004][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.19.17:048][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.17:068][631]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.05-16.19.20:970][812]LogEditorViewport: Clicking on Actor (LMB): BP_DropTargetSet_C (BP_DropTargetSet)
+[2018.10.05-16.19.31:333][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.19.31:413][286]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.19.31:457][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.19.31:457][286]PIE: New page: PIE session: Pinball (06-Oct-2018 3:19:31 am)
+[2018.10.05-16.19.31:457][286]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.19.31:474][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017207s)
+[2018.10.05-16.19.31:475][286]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.19.31:476][286]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2018.10.05-16.19.31:476][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018468s)
+[2018.10.05-16.19.31:534][286]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.19.31:557][286]LogInit: FAudioDevice initialized.
+[2018.10.05-16.19.31:595][286]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.19.31:598][286]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.49.31
+[2018.10.05-16.19.31:599][286]LogWorld: Bringing up level for play took: 0.003384
+[2018.10.05-16.19.31:614][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.31:615][286]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.692
+[2018.10.05-16.19.31:762][286]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.19.32:665][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.34:967][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.35:014][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.19.35:061][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.35:088][478]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.05-16.19.36:316][534]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.19.36:352][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.19.36:352][534]PIE: New page: PIE session: Pinball (06-Oct-2018 3:19:36 am)
+[2018.10.05-16.19.36:353][534]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.19.36:371][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018009s)
+[2018.10.05-16.19.36:372][534]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.19.36:372][534]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.10.05-16.19.36:372][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019457s)
+[2018.10.05-16.19.36:417][534]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.19.36:438][534]LogInit: FAudioDevice initialized.
+[2018.10.05-16.19.36:472][534]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.19.36:475][534]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.49.36
+[2018.10.05-16.19.36:476][534]LogWorld: Bringing up level for play took: 0.003581
+[2018.10.05-16.19.36:490][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.36:491][534]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.184
+[2018.10.05-16.19.36:541][534]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.19.37:363][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.39:781][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.39:831][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.19.39:873][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.39:891][729]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.10.05-16.19.41:448][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.19.41:481][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.19.41:482][799]PIE: New page: PIE session: Pinball (06-Oct-2018 3:19:41 am)
+[2018.10.05-16.19.41:482][799]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.19.41:499][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017055s)
+[2018.10.05-16.19.41:500][799]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.19.41:500][799]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.10.05-16.19.41:500][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.018370s)
+[2018.10.05-16.19.41:545][799]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.19.41:567][799]LogInit: FAudioDevice initialized.
+[2018.10.05-16.19.41:606][799]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.19.41:610][799]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.49.41
+[2018.10.05-16.19.41:611][799]LogWorld: Bringing up level for play took: 0.004123
+[2018.10.05-16.19.41:626][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.19.41:627][799]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.68
+[2018.10.05-16.19.41:780][799]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.19.42:823][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.20.37:311][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.20.37:358][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.20.37:403][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.20.37:422][116]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.05-16.20.48:457][587]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2018.10.05-16.21.07:101][389]BlueprintLog: New page: Compile BP_Ball
+[2018.10.05-16.21.07:991][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.10.05-16.21.08:187][405]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_BallD302024B49BD045A3E5A0A9FA184D367.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.10.05-16.21.14:054][683]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.21.14:093][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.21.14:094][683]PIE: New page: PIE session: Pinball (06-Oct-2018 3:21:14 am)
+[2018.10.05-16.21.14:094][683]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.21.14:112][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018149s)
+[2018.10.05-16.21.14:113][683]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.21.14:114][683]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2018.10.05-16.21.14:114][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019968s)
+[2018.10.05-16.21.14:172][683]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.21.14:196][683]LogInit: FAudioDevice initialized.
+[2018.10.05-16.21.14:230][683]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.21.14:234][683]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.51.14
+[2018.10.05-16.21.14:234][683]LogWorld: Bringing up level for play took: 0.004125
+[2018.10.05-16.21.14:250][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.14:251][683]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.057
+[2018.10.05-16.21.14:460][683]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.21.15:450][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.27:087][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.27:136][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.21.27:186][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.27:205][439]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.10.05-16.21.28:684][503]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.21.28:728][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.21.28:728][503]PIE: New page: PIE session: Pinball (06-Oct-2018 3:21:28 am)
+[2018.10.05-16.21.28:728][503]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.21.28:744][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016152s)
+[2018.10.05-16.21.28:745][503]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.21.28:745][503]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.10.05-16.21.28:746][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.017403s)
+[2018.10.05-16.21.28:792][503]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.21.28:815][503]LogInit: FAudioDevice initialized.
+[2018.10.05-16.21.28:850][503]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.21.28:855][503]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.51.28
+[2018.10.05-16.21.28:855][503]LogWorld: Bringing up level for play took: 0.004937
+[2018.10.05-16.21.28:869][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.28:871][503]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.564
+[2018.10.05-16.21.29:106][503]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.21.30:074][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.37:593][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.37:640][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.21.37:685][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.37:707][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.10.05-16.21.39:437][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.21.39:482][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.21.39:482][ 86]PIE: New page: PIE session: Pinball (06-Oct-2018 3:21:39 am)
+[2018.10.05-16.21.39:482][ 86]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.21.39:500][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017894s)
+[2018.10.05-16.21.39:501][ 86]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.21.39:501][ 86]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2018.10.05-16.21.39:501][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019324s)
+[2018.10.05-16.21.39:555][ 86]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.21.39:579][ 86]LogInit: FAudioDevice initialized.
+[2018.10.05-16.21.39:615][ 86]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.21.39:620][ 86]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.51.39
+[2018.10.05-16.21.39:621][ 86]LogWorld: Bringing up level for play took: 0.005177
+[2018.10.05-16.21.39:637][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.21.39:638][ 86]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.669
+[2018.10.05-16.21.39:820][ 86]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.21.40:563][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.03:776][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.03:825][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.22.03:870][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.03:889][517]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.10.05-16.22.34:070][857]BlueprintLog: New page: Compile BP_Ball
+[2018.10.05-16.22.36:566][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.10.05-16.22.36:733][942]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_Ball47CEE14A499430DF4A0FF9902BF9A71F.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.10.05-16.22.37:641][981]LogSlate: Window 'BP_Ball' being destroyed
+[2018.10.05-16.22.37:666][981]LogSlate: Window 'BP_Ball' being destroyed
+[2018.10.05-16.22.39:737][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.22.39:772][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.22.39:773][ 79]PIE: New page: PIE session: Pinball (06-Oct-2018 3:22:39 am)
+[2018.10.05-16.22.39:773][ 79]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.22.39:791][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018596s)
+[2018.10.05-16.22.39:792][ 79]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.22.39:793][ 79]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2018.10.05-16.22.39:793][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.019957s)
+[2018.10.05-16.22.39:839][ 79]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.22.39:862][ 79]LogInit: FAudioDevice initialized.
+[2018.10.05-16.22.39:899][ 79]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.22.39:903][ 79]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.52.39
+[2018.10.05-16.22.39:904][ 79]LogWorld: Bringing up level for play took: 0.004431
+[2018.10.05-16.22.39:919][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.39:920][ 79]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.388
+[2018.10.05-16.22.39:969][ 79]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.22.41:163][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.48:944][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.48:992][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.22.49:036][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.22.49:055][615]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.10.05-16.22.55:159][827]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Ball.BP_Ball
+[2018.10.05-16.23.14:124][643]BlueprintLog: New page: Compile BP_Ball
+[2018.10.05-16.23.14:949][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.10.05-16.23.15:109][654]LogSavePackage: Moving '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Saved/BP_BallFCD59E7341AEF02217E2A0AD8CCC19DA.tmp' to '../../../../../../Users/g s khagta/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.10.05-16.23.18:978][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.23.19:015][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.23.19:015][823]PIE: New page: PIE session: Pinball (06-Oct-2018 3:23:19 am)
+[2018.10.05-16.23.19:015][823]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.23.19:035][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019579s)
+[2018.10.05-16.23.19:036][823]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.23.19:036][823]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2018.10.05-16.23.19:036][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.020973s)
+[2018.10.05-16.23.19:087][823]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.23.19:110][823]LogInit: FAudioDevice initialized.
+[2018.10.05-16.23.19:144][823]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.23.19:147][823]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.53.19
+[2018.10.05-16.23.19:148][823]LogWorld: Bringing up level for play took: 0.003566
+[2018.10.05-16.23.19:163][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.23.19:165][823]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball 0.858
+[2018.10.05-16.23.19:370][823]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.23.20:083][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.01:902][641]LogRenderer: Reallocating scene render targets to support 800x464 Format 9 NumSamples 1 (Frame:40189).
+[2018.10.05-16.24.02:120][644]LogContentStreaming: Texture pool size now 600 MB
+[2018.10.05-16.24.02:980][662]LogRenderer: Reallocating scene render targets to support 800x464 Format 9 NumSamples 1 (Frame:40190).
+[2018.10.05-16.24.03:120][665]LogContentStreaming: Texture pool size now 400 MB
+[2018.10.05-16.24.07:538][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.07:588][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.24.07:636][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.07:802][927]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.10.05-16.24.09:618][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.24.09:751][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-16.24.09:802][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-16.24.09:802][ 37]PIE: New page: PIE session: Pinball (06-Oct-2018 3:24:09 am)
+[2018.10.05-16.24.09:802][ 37]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Pinball
+[2018.10.05-16.24.09:818][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015275s)
+[2018.10.05-16.24.09:818][ 37]LogAIModule: Creating AISystem for world Pinball
+[2018.10.05-16.24.09:819][ 37]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.10.05-16.24.09:819][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Pinball.Pinball to /Game/Scenes/UEDPIE_0_Pinball.Pinball (0.016512s)
+[2018.10.05-16.24.09:865][ 37]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-16.24.09:887][ 37]LogInit: FAudioDevice initialized.
+[2018.10.05-16.24.09:925][ 37]LogLoad: Game class is 'PinballGameMode_C'
+[2018.10.05-16.24.09:928][ 37]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Pinball.Pinball up for play (max tick rate 60) at 2018.10.05-21.54.09
+[2018.10.05-16.24.09:929][ 37]LogWorld: Bringing up level for play took: 0.003534
+[2018.10.05-16.24.09:943][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.09:945][ 37]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_Pinball -0.363
+[2018.10.05-16.24.10:007][ 37]LogAudio: Warning: Detected orphaned looping sound 'victoryMusic_loop_01_01'.
+[2018.10.05-16.24.11:092][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.46:867][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.46:926][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-16.24.46:974][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-16.24.46:993][232]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.10.05-16.24.59:123][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-16.24.59:304][942]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2018.10.05-16.25.42:741][460]LogUObjectBase: Warning: Object is not registered
+[2018.10.05-16.25.46:453][460]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.689 s
+[2018.10.05-16.25.46:453][460]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.05-16.25.46:453][460]LogOutputDevice: Error: 
+[2018.10.05-16.25.46:453][460]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.10.05-16.25.46:453][460]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: Stack: 
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7f1a71e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7eee0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7eefb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa746611db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7467060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8313da3a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7ddeec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa7ddaf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa85df8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8603e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-16.25.46:454][460]LogOutputDevice: Error: [Callstack] 0x00007ffa85e5281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa85e28190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa85e1b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8bbfd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8bbf0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8bbff4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8bbec209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffaf4686cc1 USER32.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffaf4686693 USER32.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ffa8bc00646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.05-16.25.46:455][460]LogOutputDevice: Error: [Callstack] 0x00007ff73e5954e5 UE4Editor.exe!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ff73e5a5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ff73e5a5bba UE4Editor.exe!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ff73e5b3dac UE4Editor.exe!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ff73e5b5aaa UE4Editor.exe!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ffaf4c73034 KERNEL32.DLL!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: [Callstack] 0x00007ffaf6e61461 ntdll.dll!UnknownFunction []
+[2018.10.05-16.25.46:456][460]LogOutputDevice: Error: 
+[2018.10.05-16.25.46:479][460]LogStats:                SubmitErrorReport -  0.012 s
